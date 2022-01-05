@@ -13,7 +13,7 @@
 * [Market Place](guides/market-place.md)
 * [Guilds](guides/guilds.md)
 
-## &#x20;
+## Untitled Group
 
 * [Road Map](undefined/road-map.md)
 * [Free to Play](undefined/free-to-play.md)

@@ -1,6 +1,6 @@
 # Battles
 
-Fights are automated turn-based. user can set the formation of heroes before a fight. and watch the replay. Also, the user can set the target priority of units in this case unit will attack to highest priority target in its range.&#x20;
+Fights are automated turn-based. user can set the formation of heroes before a fight. and watch the replay. Also, the user can set the target priority of units in this case unit will attack to highest priority target in its range.
 
 Priorities:
 
@@ -9,7 +9,7 @@ Priorities:
 * Lowest HP
 * Highest Damage
 
-Units lose HP in fights and it takes time (depending on [Barracks ](broken-reference)level) to they recover HP.
+Units lose HP in fights and it takes time for(depending on Barracks level) them to recover HP.
 
 ## Dungeons
 
