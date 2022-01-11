@@ -1,7 +1,11 @@
 # Free to Play
 
-Daily Quests Claims
+Players can play and/or earn game tokens without investment in various ways including:
 
-Referral
+1- Contribute to marketing campaigns for airdrop and bounties.
 
-Low production gold mine
+2- Daily Quests Claims
+
+3- Referral new users and earn a percetage of their investment
+
+4- Wining mines in NFT airdrops to earn game tokens.

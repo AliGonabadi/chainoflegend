@@ -10,10 +10,10 @@
 * [Lands](guides/lands.md)
 * [Heroes](guides/heroes.md)
 * [Battles](guides/battles.md)
-* [Market Place](guides/market-place.md)
+* [Marketplace](guides/marketplace.md)
 * [Guilds](guides/guilds.md)
 
-## Untitled Group
+## &#x20;
 
 * [Road Map](undefined/road-map.md)
 * [Free to Play](undefined/free-to-play.md)

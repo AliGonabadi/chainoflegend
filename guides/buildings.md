@@ -18,10 +18,13 @@ Level 1: 500 Gold Cost. 50 Iron Production Per day. Max Cap 50 Irons. Build Time
 
 ### Barracks
 
-Level 1: 1000 Gold Cost. Uses to train Heroes and heal Heroes after battles. Train speed / Combine Time: 12 hours. Healing 10 per hour. Max Cap: 5. Max Cap increases 2 per level. Increase Armor, Damage, Magic Resistance of units by 10%.
+Level 1: 1000 Gold Cost. Uses to train Heroes and healing Heroes after battle. Train speed / Combine Time: 12 hours. Healing 10 per hour. Max Cap: 5. Max Cap increases 2 per level. Increase Armor, Damage, Magic Resistance of units by 10%.
+
+
 
 ### Upgrades
 
 Upgrades Take Time Depending on building level. You can pay 10% more resources per 24 hours time remaining to finish the upgrade instantly.
 
 Upgrade Cost 220% of the previous level and increase building performance by 100%. Upgrade Takes 12 hours more time than the previous level.
+

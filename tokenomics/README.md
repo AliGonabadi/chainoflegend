@@ -19,7 +19,7 @@ IDO price: 0.008$
 | **Development**                              |      50M     |    5%   | 18 Months |
 | **Dex Liquidity**                            |      50M     |    5%   |           |
 
-Tokens will be locked using [dxsale.app](https://dxsale.app) and unlock over time based on the vesting plan.
+Tokens will be locked using [dxsale.app](https://dxsale.app) and will be unlocked over time based on the vesting plan.
 
 
 
