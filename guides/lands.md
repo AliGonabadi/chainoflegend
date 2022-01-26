@@ -6,7 +6,7 @@ As long as users spend their tokens in game, tokens will directly get transfered
 
 There are 5 type5 of lands:
 
-1. **Desert**: Has 1000 Gold and no Iron and stone resources. every new user starts with this land (Unlimited land)
+1. **Desert**: Has 1000 Gold and no Iron and stone resources. every new user starts with this land with -50% lower earning rate (Unlimited land)
 2. **Common**: Has 5000 Gold, Iron, and Stone. (40,000 Max \~76.6% of limited lands)
 3. **Uncommon:** Has 10,000 Gold, Iron, and Stone. +10% earning rate. (10,000 Max \~19.2% of limited lands)
 4. **Rare:** Has 50,000 Gold, Iron, and Stone. +20% earning rate. (2,000 Max \~3.8% of limited lands)
