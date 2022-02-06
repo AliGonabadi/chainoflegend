@@ -6,7 +6,7 @@ Resource buildings also have a capacity You have to collect their resources befo
 
 ### Gold Mine
 
-Level 1: 1000 Gold Cost. 50 Gold Production Per day. Max Cap: 50 Golds. Build Time: 12 hours
+Level 1: 1000 Gold Cost. 40 Gold Production Per day. Max Cap: 40 Golds. Build Time: 12 hours
 
 ### Stone Mine
 
