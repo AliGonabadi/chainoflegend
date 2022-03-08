@@ -2,8 +2,8 @@
 
 ### 2022 Q1
 
-* [ ] Developing the website
-* [ ] Developing Smart Contract
+* [x] Developing the website
+* [x] Developing Smart Contract
 * [ ] NFT Sales
 * [ ] IDO
 * [ ] Game Beta version
