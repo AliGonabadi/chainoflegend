@@ -16,8 +16,8 @@
 ### 2022 Q3
 
 * [ ] New Exchange Listing
-* [ ] PVP Mode. Treasure Island, Battle system
 * [ ] More objectives in game and PVE mode(buildings, Heroes, Dungeons, and etc)
+* [ ] PVP Mode. Treasure Island, Battle system
 
 ### 2022 Q4
 
