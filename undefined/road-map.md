@@ -4,22 +4,22 @@
 
 * [x] Developing the website
 * [x] Developing Smart Contract
-* [ ] NFT Sales
-* [ ] IDO
-* [ ] Game Beta version
+* [x] NFT Sales
 
 ### 2022 Q2
 
-* [ ] Game version 1 with basic mining and play to earn feature (Lands and mines)
-* [ ] More objectives in game and PVE mode(buildings, Heroes, Dungeons, and etc)
 * [ ] Marketplace
+* [ ] Game Beta version
+* [ ] IDO
+* [ ] Game version 1 with basic mining and play to earn feature (Lands and mines)
 * [ ] New Exchange Listing
 
 ### 2022 Q3
 
 * [ ] PVP Mode. Treasure Island, Battle system
-* [ ] Guilds system
+* [ ] More objectives in game and PVE mode(buildings, Heroes, Dungeons, and etc)
 
 ### 2022 Q4
 
+* [ ] Guilds system
 * [ ] Centralized Exchange Listing
