@@ -1,8 +1,3 @@
----
-cover: ../.gitbook/assets/1080x360.jpg
-coverY: -9.515418502202644
----
-
 # Buildings
 
 Resource Buildings have Health. They lose 2 HP per day and will stop working when their HP reaches 0. You can repair them by paying Game's token. Buildings Loss 5% of their performance by losing every 20 HP. The repair cost to recover 100 HP is 50% of the building value.
