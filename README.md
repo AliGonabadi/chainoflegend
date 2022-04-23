@@ -1,6 +1,8 @@
 # Introduction
 
-Chain of Legends is a play to earn NFT game which you can:
+![](.gitbook/assets/photo\_2022-04-23\_14-38-56.jpg)
+
+Chain of Legends is a play to earn NFT game that you can:
 
 1. Buy a land, build a CLEG token mine and start earning game tokens.
 2. Directly sell tokens in exchanges or expand your empire by creating stone and iron mines to generate resources that you need for your career.

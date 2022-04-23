@@ -12,5 +12,5 @@ There are 5 type5 of lands:
 4. **Rare:** Has \~2800 tokens\*\*, Iron, and Stone. +20% earning rate. (100 lands available per day)
 5. **Legendary:** Has \~14000 tokens\*\*, Iron, and Stone. +30% earning rate. (20 lands available per day)
 
-\*\* after each [mining cycle](../tokenomics/price-stability.md#mining-cycles), resources of new lands will be deducted by 5%. read more about mining cycles
+\*\* after each [mining cycle](../price-stability.md#mining-cycles), resources of new lands will be deducted by 5%. read more about mining cycles
 

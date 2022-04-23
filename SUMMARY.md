@@ -1,8 +1,8 @@
 # Table of contents
 
 * [Introduction](README.md)
-* [Tokenomics](tokenomics/README.md)
-  * [Price Stability](tokenomics/price-stability.md)
+* [Tokenomics](tokenomics.md)
+* [Price Stability](price-stability.md)
 
 ## Guides
 
