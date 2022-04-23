@@ -8,28 +8,30 @@ Resource buildings also have a capacity You have to collect their resources befo
 
 ![](../.gitbook/assets/photo\_2022-04-23\_16-10-28.jpg)
 
-Level 1 is free for all. Every one has a free CLEG mine with 50 CLEG Production Per day. Max Cap: 50 CLEG.&#x20;
+Level 1 is free for all. Everyone has a free CLEG mine with 50 CLEG Production Per day. Max Cap: 50 CLEG.&#x20;
 
 
 
-| Level | Upgrade Time | Upgrade Cost               | Production  | Max Cap   |
-| ----- | ------------ | -------------------------- | ----------- | --------- |
-| 1     | 0 hours      |                        -   | 50 CLEG     | 50 CLEG   |
-| 2     | 12 hours     | 1,000 CLEG                 | 95 CLEG     | 100 CLEG  |
-| 3     | 24 hours     | 2,000 CLEG                 | 181 CLEG    | 200 CLEG  |
-| 4     | 36 hours     | 4,000 CLEG                 | 343 CLEG    | 400 CLEG  |
-| 5     | 48 hours     | 8,000 CLEG                 | 652 CLEG    | 800 CLEG  |
-| 6     | 60 hours     | 16,000 CLEG                | 1,238 CLEG  | 1600 CLEG |
-| 7     | 72 hours     | 32,000 CLEG                | 2,352 CLEG  | 3200 CLEG |
-| 8     | 84 hours     | 64,000 CLEG                | 4,469  CLEG | 6400 CLEG |
+| Level | Upgrade Time | Upgrade Cost | Production  | Max Cap   |
+| ----- | ------------ | ------------ | ----------- | --------- |
+| 1     | 0 hours      | Free         | 50 CLEG     | 50 CLEG   |
+| 2     | 12 hours     | 1,000 CLEG   | 95 CLEG     | 100 CLEG  |
+| 3     | 24 hours     | 2,000 CLEG   | 181 CLEG    | 200 CLEG  |
+| 4     | 36 hours     | 4,000 CLEG   | 343 CLEG    | 400 CLEG  |
+| 5     | 48 hours     | 8,000 CLEG   | 652 CLEG    | 800 CLEG  |
+| 6     | 60 hours     | 16,000 CLEG  | 1,238 CLEG  | 1600 CLEG |
+| 7     | 72 hours     | 32,000 CLEG  | 2,352 CLEG  | 3200 CLEG |
+| 8     | 84 hours     | 64,000 CLEG  | 4,469  CLEG | 6400 CLEG |
 
 ### Stone Mine
 
-
+![](../.gitbook/assets/photo\_2022-04-23\_16-24-58.jpg)
 
 Level 1: 200 CLEG Cost. 50 Stone Production Per day. Max Cap 50 Stones. Build Time: 12 hours
 
 ### Iron Mine
+
+![](../.gitbook/assets/photo\_2022-04-23\_16-24-51.jpg)
 
 Level 1: 500 CLEG Cost. 50 Iron Production Per day. Max Cap 50 Irons. Build Time: 12 hours
 
@@ -43,7 +45,7 @@ By upgrading barracks, Max Cap will increase by 2 per level. And Armor, Damage, 
 
 ### Upgrades
 
-Upgrades Take Time Depending on building level. You can pay 10% more resources to get 24 hours deducted from the remaining time. For example, for a building that needs 100 tokens and 3 days to get upgraded, you can pay 130 tokens to upgrade your building instantly.
+Upgrades Take Time Depending on the building level. You can pay 10% more resources to get 24 hours deducted from the remaining time. For example, for a building that needs 100 tokens and 3 days to get upgraded, you can pay 130 tokens to upgrade your building instantly.
 
-Upgrades Cost 220% of the previous Level’s price and it will increase building performance by 100%. Upgrade Takes 12 hours more time than the previous level.
+Upgrades Cost is 100% more than the previous Level and it will increase building performance by 90%. Upgrade Takes 12 hours more time than the previous level.
 
