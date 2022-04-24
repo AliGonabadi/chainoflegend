@@ -9,18 +9,11 @@ You need lands to deploy your buildings and start earning resources. each land h
 
 There is 5 type of lands:
 
-| <p><img src="../.gitbook/assets/land-desert.png" alt=""><br><strong>Desert:</strong> Has ~25 tokens* and no Iron and stone resources. every new user can start with this land with -10% earning rate (2800 lands available per day)</p> | <p><img src="../.gitbook/assets/land-common.png" alt=""><br><strong>Common:</strong> Has ~235 tokens*, Iron, and Stone. (1400 lands available per day)</p> |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|                                                                                                                                                                                                                                         |                                                                                                                                                            |
-|                                                                                                                                                                                                                                         |                                                                                                                                                            |
-
 ![Desert: Has \~25 tokens\* and no Iron and stone resources. every new user can start with this land with -10% earning rate (2800 lands available per day)](../.gitbook/assets/land-desert.png) ![Common: Has \~235 tokens\*, Iron, and Stone. (1400 lands available per day)](../.gitbook/assets/land-common.png)
 
-1. ****
-2. ****
-3. **Uncommon:** Has \~700 tokens\*, Iron, and Stone. +10% earning rate. (480 lands available per day)
-4. **Rare:** Has \~2800 tokens\*, Iron, and Stone. +20% earning rate. (100 lands available per day)
-5. **Legendary:** Has \~14000 tokens\*, Iron, and Stone. +30% earning rate. (20 lands available per day)
+![Uncommon: Has \~700 tokens\*, Iron, and Stone. +10% earning rate. (480 lands available per day)](../.gitbook/assets/land-uncommon.png) ![Rare: Has \~2800 tokens\*, Iron, and Stone. +20% earning rate. (100 lands available per day)](../.gitbook/assets/land-rare.png)
+
+![Legendary: Has \~14000 tokens\*, Iron, and Stone. +30% earning rate. (20 lands available per day)](../.gitbook/assets/land-legendary.PNG)
 
 {% hint style="warning" %}
 &#x20;\* after each [mining cycle](../price-stability.md#mining-cycles), resources of new lands will be deducted by 5%. read more about mining cycles
