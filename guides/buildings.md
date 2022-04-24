@@ -5,7 +5,7 @@ coverY: 75.25385054192812
 
 # Buildings
 
-Resource Buildings have Health. They lose 2 HP per day and will stop working when their HP reaches 0. You can repair them by paying Game's token. Buildings Loss 5% of their performance by losing every 20 HP. The repair cost to recover 100 HP is 50% of the building value(The cost to build and upgrade the building to reach the current level).
+Resource Buildings helps you to gather CLEG tokens, Stone, and Iron to make your progress in the game. Resource Buildings have Health. They lose 2 HP per day and will stop working when their HP reaches 0. You can repair them by paying Game's token. Buildings Loss 5% of their performance by losing every 20 HP. The repair cost to recover 100 HP is 50% of the building value(The cost to build and upgrade the building to reach the current level).
 
 Resource buildings also have a capacity You have to collect their resources before they get full and stop working.
 
@@ -77,10 +77,6 @@ Level 1: 500 CLEG Cost. 50 Iron Production Per day. Max Cap 50 Irons. Build Time
 Barracks Uses to train Heroes and heal heroes after a battle. Train speed / Combine Time: 12 hours. Healing 10 per hour. Max Cap: 5.&#x20;
 
 By upgrading barracks, Max Cap will increase by 2 per level. And Armor, Damage, and Magic Resistance of units will increase by 10% per level.
-
-,
-
-
 
 ![](../.gitbook/assets/CLEG-Barracks.webp)
 
