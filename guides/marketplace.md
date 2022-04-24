@@ -2,7 +2,7 @@
 
 ![](<../.gitbook/assets/Screenshot 2022-04-24 221044.jpg>)
 
-Players can trade resources, heroes, lands, buildings, and items in the marketplace. Players are also able to RENT their NFT items in the marketplace.
+Players can trade resources, heroes, lands, buildings, and items in the marketplace. Players are also able to RENT their NFT items in the marketplace. there are many filters and sorting options to help you to find what you are looking for.
 
 You can buy NFT from available offers or you can place a bid with your desired price.
 
