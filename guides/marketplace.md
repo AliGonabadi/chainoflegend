@@ -8,4 +8,4 @@ You can buy NFT from available offers or you can place a bid with your desired p
 
 ![](<../.gitbook/assets/Screenshot 2022-04-24 222026.jpg>)
 
-Each Item in the marketplace has its order book containing a list of sell offers and buy offers for that item. you can sell your item to available buy offers of buy items from available sell offers or place your own offer.
+By clicking on each Item in the marketplace, you will see its order book containing a list of sell offers and buy offers for that item. you can sell your item to available buy offers of buy items from available sell offers or place your own offer.
