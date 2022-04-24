@@ -9,7 +9,9 @@ Priorities:
 * Lowest HP
 * Highest Damage
 
-Units lose HP in battles and it takes time (depending on [Barracks ](broken-reference)level) to they recover HP.
+Units lose HP in battles and it takes time (depending on [Barracks ](broken-reference)level) to recover their HP.
+
+## Damage, Healing, and Resistance
 
 ## Dungeons
 
