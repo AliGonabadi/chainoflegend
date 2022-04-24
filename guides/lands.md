@@ -16,6 +16,6 @@ There is 5 type of lands:
 ![Legendary: Has \~14000 tokens\*, Iron, and Stone. +30% earning rate. (20 lands available per day)](../.gitbook/assets/land-legendary.PNG)
 
 {% hint style="warning" %}
-&#x20;\* after each [mining cycle](../price-stability.md#mining-cycles), resources of new lands will be deducted by 5%. read more about mining cycles
+&#x20;\* after each [mining cycle](../price-stability.md#mining-cycles), resources of new lands will be deducted by 5%. read more about [mining cycles](../price-stability.md#mining-cycles)
 {% endhint %}
 
