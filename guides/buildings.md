@@ -1,7 +1,7 @@
 ---
 cover: ../.gitbook/assets/Screenshot 2022-04-24 212249.jpg
 coverY: 75.25385054192812
-layout: editorial
+layout: landing
 ---
 
 # Buildings
