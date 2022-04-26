@@ -8,7 +8,7 @@
 
 * [Buildings](guides/buildings.md)
 * [Lands](guides/lands.md)
-* [Heroes](guides/heroes.md)
+* [Units](guides/heroes.md)
 * [Battles](guides/battles.md)
 * [Marketplace](guides/marketplace.md)
 * [Guilds](guides/guilds.md)
