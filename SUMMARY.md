@@ -18,3 +18,7 @@
 
 * [📜 Road Map](undefined/road-map.md)
 * [🤑 Free to Play](undefined/free-to-play.md)
+
+***
+
+* [Resources](resources.md)
