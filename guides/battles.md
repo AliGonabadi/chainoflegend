@@ -5,7 +5,7 @@ coverY: -28.155642023346303
 
 # ⚔ Battles
 
-Battles are automated turn-based. user can set strategy and the formation of troops before a battle. and watch the battle replay. Also, the user can set the target priority of units in this case unit will attack to highest priority target in its range.&#x20;
+On the [adventure](adventures.md) page, you can send your [troops ](heroes.md)to [dungeons ](adventures.md#dungeons)and[ treasure islands](adventures.md#treasure-island) which leads them to a battle at last. Battles are automated turn-based. user can set strategy and the formation of troops before a battle. and watch the battle replay. Also, the user can set the target priority of units in this case unit will attack to highest priority target in its range.&#x20;
 
 Priorities:
 
@@ -20,7 +20,7 @@ Units lose HP in battles and it takes time (depending on [Barracks ](broken-refe
 
 ## Damage and Resistance
 
-Armor and Magic Resistance help units to receive less damage.
+Armor and Magic Resistance help units to receive less damage in battles.
 
 Here is how Armor affects Physical Damage:
 
