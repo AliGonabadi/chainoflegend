@@ -4,6 +4,7 @@
 
 * [x] Developing the website
 * [x] Developing Smart Contract
+* [x] Concept, Model, and animate 3d models of troops, and building
 * [x] NFT Sales
 
 ### 2022 Q2
@@ -16,10 +17,28 @@
 ### 2022 Q3
 
 * [ ] New Exchange Listing
-* [ ] More objectives in game and PVE mode(buildings, Heroes, Dungeons, and etc)
+* [ ] More objectives in the game and PVE model (Buildings, Troops, Dungeons)
 * [ ] PVP Mode. Treasure Island, Battle system
 
 ### 2022 Q4
 
 * [ ] Guilds system
 * [ ] Centralized Exchange Listing
+
+### 2023 Q1
+
+* [ ] Chat system: Chat with friends, Guild Members, and in the world channel (all game players)
+* [ ] Items: Players can find items in dungeons and treasure islands and use them on troops or trade them in the marketplace.
+
+### 2023 Q2
+
+* [ ] World Map: Players can see dungeons and treasure islands on the map, and can scout them to get information about enemy troops.
+
+### 2023 Q3-Q4
+
+* [ ] Arena Battle: online battles 1v1, 2v2, 3v3. Arena battles are NOT automated. players should control their troops in a turn-based battle beside his/her friends on the battleground.
+
+### 2024 and future
+
+We will keep updating the game and adding new features based on players' feedback and finding pros and cons of the game
+
