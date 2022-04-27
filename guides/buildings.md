@@ -3,7 +3,7 @@ cover: ../.gitbook/assets/Screenshot 2022-04-24 212249.jpg
 coverY: 75.25385054192812
 ---
 
-# Buildings
+# ⛏ Buildings
 
 Resource Buildings helps you to gather CLEG tokens, Stone, and Iron to make your progress in the game. Resource Buildings have Health. They lose 2 HP per day and will stop working when their HP reaches 0. You can repair them by paying Game's token. Buildings Loss 5% of their performance by losing every 20 HP. The repair cost to recover 100 HP is 50% of the building value(The cost to build and upgrade the building to reach the current level).
 

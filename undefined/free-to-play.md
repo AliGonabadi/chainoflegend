@@ -1,4 +1,4 @@
-# Free to Play
+# 🤑 Free to Play
 
 Players can play and/or earn game tokens without investment in various ways including:
 

@@ -1,4 +1,4 @@
-# Units
+# 🪖 Troops
 
 In [barracks](buildings.md#barracks), you can train units. some of the units are not trainable in barracks, but you can find them in [adventures](battles.md).
 

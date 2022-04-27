@@ -1,4 +1,9 @@
-# Battles
+---
+cover: ../.gitbook/assets/Screenshot 2022-04-27 103552.jpg
+coverY: -28.155642023346303
+---
+
+# ⚔ Battles
 
 Fights are automated turn-based. user can set the formation of heroes before a fight. and watch the replay. Also, the user can set the target priority of units in this case unit will attack to highest priority target in its range.&#x20;
 
@@ -9,16 +14,22 @@ Priorities:
 * Lowest HP
 * Highest Damage
 
+![Army Formation Page](<../.gitbook/assets/image (2).png>)
+
 Units lose HP in battles and it takes time (depending on [Barracks ](broken-reference)level) to recover their HP.
 
-## Damage, Healing, and Resistance
+## Damage and Resistance
 
-## Dungeons
+Armor and Magic Resistance help units to receive less damage.
 
-Every 24 hours a dungeon is available for you to go on an adventure you have to fight monsters and defeat them to get treasuries in dungeons.
+Here is how Armor affects Physical Damage:
 
-## Treasure Island
+Physic Resistance = 1 - ( 1 / ( Armor / 100 + 1))
 
-You can set your army to explore and find treasures. It may take 1 to 10 Days to find a treasure island. If You are lucky, the island is empty and you can start collecting treasures. Collecting speed depends on the sum of the attack power of your heroes it's 1 gold per 100 attack damage per day. And also you have to be ready to defend yourself from the ambush of other players to capture your island. You can create walls to make a defense advantage.
+Example: A unit with 50 Armor will receive **33%** less physycal Damage:
 
-If you see someone already is in the island, you can attack him/her to capture the island. You can Scout the island by paying some gold to get valuable info about enemy units and defensive structures. Or you can dismiss this island and continue exploring new Islands.
+Physic Resistance = 1 - ( 1 / ( 50 / 100 + 1)) =  **33%**
+
+Magic Resistance has same formula:
+
+Magic Resistance = 1 - ( 1 / ( Magic Resistance / 100 + 1))

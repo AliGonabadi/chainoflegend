@@ -6,14 +6,15 @@
 
 ## Guides
 
-* [Buildings](guides/buildings.md)
-* [Lands](guides/lands.md)
-* [Units](guides/heroes.md)
-* [Battles](guides/battles.md)
-* [Marketplace](guides/marketplace.md)
-* [Guilds](guides/guilds.md)
+* [⛏ Buildings](guides/buildings.md)
+* [🏝 Lands](guides/lands.md)
+* [🪖 Troops](guides/heroes.md)
+* [🗺 Adventures](guides/adventures.md)
+* [⚔ Battles](guides/battles.md)
+* [🛒 Marketplace](guides/marketplace.md)
+* [🏕 Guilds](guides/guilds.md)
 
 ## Untitled Group
 
-* [Road Map](undefined/road-map.md)
-* [Free to Play](undefined/free-to-play.md)
+* [📜 Road Map](undefined/road-map.md)
+* [🤑 Free to Play](undefined/free-to-play.md)

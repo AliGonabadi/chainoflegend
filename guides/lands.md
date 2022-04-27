@@ -3,7 +3,7 @@ cover: ../.gitbook/assets/Screenshot 2022-04-24 215114.jpg
 coverY: 57.836851112378774
 ---
 
-# Lands
+# 🏝 Lands
 
 You need lands to deploy your buildings and start earning resources. each land has a limited amount of resources. When resources of a land got finished, the land will be dismissed, and you have to find a new one. Lands are limited to the reward pool. They will be distributed to the users over time. To control inflation, When more users extract land resources, the reward pool’s tokens will get decreased, hence land distribution will get slower. This will help users’ assets to remain always valuable.&#x20;
 

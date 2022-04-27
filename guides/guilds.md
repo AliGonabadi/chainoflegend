@@ -1,4 +1,4 @@
-# Guilds
+# 🏕 Guilds
 
 There are [treasure Islands](battles.md#treasure-island) with different difficulties to occupy. Some of them are to occupy on your own and of course, there are more treasures. You can join a guild or create your own guild and play with your friend to occupy Island and defend it from other players' invasion.
 

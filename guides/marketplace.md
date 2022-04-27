@@ -1,4 +1,4 @@
-# Marketplace
+# 🛒 Marketplace
 
 ![](<../.gitbook/assets/Screenshot 2022-04-24 221044.jpg>)
 
