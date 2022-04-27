@@ -47,6 +47,6 @@ The amount of XP that each unit earns in a battle is:\
 
 ### Combining Unit
 
-You can combine 2 units with the same level to get 1 stronger unit with 1 higher level. The XP of units will add together for the new ugraded unit.
+You can combine 2 units with the same level to get 1 stronger unit with 1 higher level. The XP of units will add together for the new upgraded unit.
 
 Example: if you combine 2 warriors with Level 3 and the first one has 10000 XP and the second one has 15000 XP, then you will get a new warrior with level 4 and 25000 XP
