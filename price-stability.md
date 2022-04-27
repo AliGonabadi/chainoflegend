@@ -1,4 +1,4 @@
-# Price Stability
+# 📈 Price Stability
 
 We are using many mechanisms to control the price and reduce pumps, dumps, and continuous price decline that has happened to some blockchain games.
 

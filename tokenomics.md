@@ -1,4 +1,4 @@
-# Tokenomics
+# 🪙 Tokenomics
 
 Total Supply: 1,000,000,000 Tokens
 
@@ -6,7 +6,7 @@ Initial Supply: 100,000,000 Tokens
 
 IDO price: 0.008$
 
-![](../.gitbook/assets/infograph.venngage.com.png)
+![](.gitbook/assets/infograph.venngage.com.png)
 
 |                                               | Total Supply | Percent | Vesting   |
 | --------------------------------------------- | :----------: | :-----: | --------- |

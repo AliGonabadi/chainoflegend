@@ -14,7 +14,7 @@ Priorities:
 * Lowest HP
 * Highest Damage
 
-![Army Formation Page](<../.gitbook/assets/image (2).png>)
+![Army Formation Page](<../.gitbook/assets/image (2) (1).png>)
 
 Units lose HP in battles and it takes time (depending on [Barracks ](broken-reference)level) to recover their HP.
 

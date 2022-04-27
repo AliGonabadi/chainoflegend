@@ -2,7 +2,7 @@
 
 On the Adventure page, you can choose to send your troops to [Dungeon ](adventures.md#dungeons)and defeat monsters and collect hidden treasures in the dungeon. Or send them to [Treasure Island](adventures.md#treasure-island) to
 
-![](<../.gitbook/assets/image (3).png>)
+![](<../.gitbook/assets/image (3) (1).png>)
 
 ### Dungeons
 

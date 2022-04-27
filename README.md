@@ -3,7 +3,7 @@ cover: .gitbook/assets/photo_2022-04-23_14-38-56.jpg
 coverY: -178.89332572732457
 ---
 
-# Introduction
+# 📃 Introduction
 
 ![](<.gitbook/assets/Screenshot 2022-04-24 213612.jpg>)
 
