@@ -4,7 +4,7 @@ Players can play and/or earn game tokens without investment in various ways incl
 
 ### Free Mining
 
-Every player has a free CLEG mine with level 1. and there is a free NFT land in the marketplace called "Desert" that player can start mining without investing, when a player mines up "Desert" land tokens, he/she can get another free "Desert" land from marketplace again and again.
+Every player has a free [CLEG token mine](../guides/buildings.md#cleg-token-mine) with level 1. and there is a free NFT land in the marketplace called "Desert" that player can start mining without investing, when a player mines up "Desert" land tokens, he/she can get another free ["Desert" land](../guides/lands.md) from marketplace again and again.
 
 <img src="../.gitbook/assets/image (5).png" alt="" data-size="original"> ![](<../.gitbook/assets/image (2).png>)
 

@@ -9,7 +9,7 @@
 
 ### 2022 Q2
 
-* [ ] Marketplace
+* [ ] [Marketplace](../guides/marketplace.md)
 * [ ] Game Beta version
 * [ ] IDO
 * [ ] Game version 1 with basic mining and play to earn feature (Lands and mines)
@@ -17,12 +17,12 @@
 ### 2022 Q3
 
 * [ ] New Exchange Listing
-* [ ] More objectives in the game and PVE model (Buildings, Troops, Dungeons)
-* [ ] PVP Mode. Treasure Island, Battle system
+* [ ] More objectives in the game and PVE model ([Buildings](../guides/buildings.md), [Troops](../guides/heroes.md), [Dungeons](../guides/adventures.md#dungeons))
+* [ ] PVP Mode. [Treasure Island](../guides/adventures.md#treasure-island), [Battle system](../guides/battles.md)
 
 ### 2022 Q4
 
-* [ ] Guilds system
+* [ ] [Guilds system](../guides/guilds.md)
 * [ ] Centralized Exchange Listing
 
 ### 2023 Q1

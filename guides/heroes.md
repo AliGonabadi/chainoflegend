@@ -27,7 +27,7 @@ In [barracks](buildings.md#barracks), you can train units. some of the units are
 
 ### Unit Levels
 
-Units earn experience (XP) in battles. when they get enough XP, they will get upgraded to the next level, by Upgrading to new levels, units' HP, Attack Damage, and Healing will increase by 50%. For ranged units, they will get 1 more attack range every 3 levels. For example, the table below shows the stats of Archer at every Level.
+Units earn experience (XP) in battles. when they get enough XP, they will get upgraded to the next level, by upgrading to new levels, units' HP, Attack Damage, and Healing will increase by 50%. For ranged units, they will get 1 more attack range every 3 levels. For example, the table below shows the stats of Archer at every Level.
 
 | Level | XP required | Attack | HP      | Attack Range |
 | ----- | ----------- | ------ | ------- | ------------ |

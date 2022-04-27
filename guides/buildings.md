@@ -74,11 +74,11 @@ Level 1: 500 CLEG Cost. 50 Iron Production Per day. Max Cap 50 Irons. Build Time
 
 ## Barracks
 
-Barracks Uses to train Heroes and heal heroes after a battle. Train speed / Combine Time: 12 hours. Healing 10 per hour. Max Cap: 5.&#x20;
+Barracks Uses to train troops and heal them after a battle. Train speed / Combine Time: 12 hours. Healing 10 per hour. Max Cap: 5.&#x20;
 
 By upgrading barracks, Max Cap will increase by 2 per level. And Armor, Damage, and Magic Resistance of units will increase by 10% per level.
 
-![](../.gitbook/assets/CLEG-Barracks.webp)
+![Barracks](../.gitbook/assets/CLEG-Barracks.webp)
 
 | Level | Upgrade Time | Cost                                             | Healing/Hour \* | Capacity | Bonus Stats \*\* |
 | ----- | ------------ | ------------------------------------------------ | --------------- | -------- | ---------------- |

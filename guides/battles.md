@@ -5,7 +5,7 @@ coverY: -28.155642023346303
 
 # ⚔ Battles
 
-Fights are automated turn-based. user can set the formation of heroes before a fight. and watch the replay. Also, the user can set the target priority of units in this case unit will attack to highest priority target in its range.&#x20;
+Battles are automated turn-based. user can set strategy and the formation of troops before a battle. and watch the battle replay. Also, the user can set the target priority of units in this case unit will attack to highest priority target in its range.&#x20;
 
 Priorities:
 
