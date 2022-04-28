@@ -3,9 +3,11 @@
 * [📃 Introduction](README.md)
 * [🪙 Tokenomics](tokenomics.md)
 * [📈 Price Stability](price-stability.md)
+* [🤑 Free to Play](free-to-play.md)
 
 ## Guides
 
+* [👷 Resources](guides/resources.md)
 * [⛏ Buildings](guides/buildings.md)
 * [🏝 Lands](guides/lands.md)
 * [🪖 Troops](guides/heroes.md)
@@ -17,8 +19,3 @@
 ## Untitled Group
 
 * [📜 Road Map](undefined/road-map.md)
-* [🤑 Free to Play](undefined/free-to-play.md)
-
-***
-
-* [Resources](resources.md)
