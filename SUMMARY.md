@@ -16,6 +16,6 @@
 * [🛒 Marketplace](guides/marketplace.md)
 * [🏕 Guilds](guides/guilds.md)
 
-## Untitled Group
+##
 
 * [📜 Road Map](undefined/road-map.md)
