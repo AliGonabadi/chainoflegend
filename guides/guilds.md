@@ -1,12 +1,12 @@
 # 🏕 Guilds
 
-There are [treasure Islands](battles.md#treasure-island) with different difficulties to occupy. Some of them are to occupy on your own and of course, there are more treasures. You can join a guild or create your own guild and play with your friend to occupy Island and defend it from other players' invasion.
+There are [treasure Islands](battles.md#treasure-island) with different difficulties to occupy. Some of them are harder to occupy on your own and of course, they contain more treasures. You can join a guild or create your own guild and play with your friend to occupy Island and defend it from other players' invasion.
 
-Every guild has a leader. The leader can set a time to start the adventure for treasure island. Anyone who wants to join the adventure should send his/her units to the guild before that time. The chief also set the minimum and the maximum number of each unit needed to start the adventure.&#x20;
+Every guild has a leader. The leader can set a time to start the adventure for treasure island. Anyone who wants to join the adventure should send his/her units to the guild before that time. The chief also set the minimum and the maximum number of each unit required to start the adventure.&#x20;
 
-The adventure will starts immediately if the maximum number of required units joined the battle. The leader should set the formation of units before starting the adventure.
+The adventure will start immediately if the maximum number of the required units had joined the battle. The leader should set the formation of units before starting the adventure.
 
-if the required minimum units, do not get filled by guild members on time which the guild leader has set, the adventure will be canceled.
+if the required minimum units, do not get filled by guild members on the time that the guild leader has set, the adventure will be canceled.
 
 ### Adventure Reward Share
 

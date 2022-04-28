@@ -5,9 +5,9 @@ coverY: 75.25385054192812
 
 # ⛏ Buildings
 
-Resource Buildings helps you to gather CLEG tokens, Stone, and Iron to make your progress in the game. Resource Buildings have Health. They lose 2 HP per day and will stop working when their HP reaches 0. You can repair them by paying Game's token. Buildings Loss 5% of their performance by losing every 20 HP. The repair cost to recover 100 HP is 50% of the building value(The cost to build and upgrade the building to reach the current level).
+Resource Buildings help you to gather CLEG tokens, Stone, and Iron to make your progress in the game. Resource Buildings have Health. They lose 2 HP per day and will stop working when their HP reaches 0. You can repair them by paying Game's token. Buildings Lose 5% of their performance by losing every 20 HP. The repair cost to recover 100 HP is 50% of the building value(The cost to build and upgrade the building to reach the current level).
 
-Resource buildings also have a capacity You have to collect their resources before they get full and stop working.
+Resource buildings also have a capacity. You have to collect their resources before they get full and stop working.
 
 ### CLEG Token Mine
 
@@ -27,7 +27,7 @@ Level 1 is free for all. Everyone has a free CLEG mine with 50 CLEG Production P
 | 8     | 84 hours     | 64,000 CLEG  | 4,469  CLEG   | 6400 CLEG |
 
 {% hint style="warning" %}
-&#x20;\*  Production numbers are related to cycle 1. In the next cycles, production will be reduced. Read more about [Mining Cycles](../price-stability.md#mining-cycles).
+&#x20;\*  Production numbers are related to cycle 1. In the next cycles, the production will be reduced. Read more about [Mining Cycles](../price-stability.md#mining-cycles).
 {% endhint %}
 
 ### Stone Mine
@@ -46,7 +46,7 @@ Level 1 is free for all. Everyone has a free CLEG mine with 50 CLEG Production P
 | 8     | 96 hours     | 25600 CLEG | 8939 Stone    | 12800 Stone |
 
 {% hint style="warning" %}
-\*  Production numbers are related to cycle 1. In the next cycles, production will be reduced. Read more about [Mining Cycles](../price-stability.md#mining-cycles).
+\*  Production numbers are related to cycle 1. In the next cycles, the production will be reduced. Read more about [Mining Cycles](../price-stability.md#mining-cycles).
 {% endhint %}
 
 ### Iron Mine
@@ -69,12 +69,12 @@ Level 1: 500 CLEG Cost. 50 Iron Production Per day. Max Cap 50 Irons. Build Time
 | 8     | 96 hours     | <p>32000 CLEG,<br>32000 Stone</p> | 8939 Iron     | 12800 Iron |
 
 {% hint style="warning" %}
-\*  Production numbers are related to cycle 1. In the next cycles, production will be reduced. Read more about [Mining Cycles](../price-stability.md#mining-cycles).
+\*  Production numbers are related to cycle 1. In the next cycles, the production will be reduced. Read more about [Mining Cycles](../price-stability.md#mining-cycles).
 {% endhint %}
 
 ## Barracks
 
-Barracks Uses to train troops and heal them after a battle. Train speed / Combine Time: 12 hours. Healing 10 per hour. Max Cap: 5.&#x20;
+Barracks are used to train troops and heal them after a battle. Train speed / Combine Time: 12 hours. Healing 10 per hour. Max Cap: 5.&#x20;
 
 By upgrading barracks, Max Cap will increase by 2 per level. And Armor, Damage, and Magic Resistance of units will increase by 10% per level.
 
