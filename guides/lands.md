@@ -1,6 +1,6 @@
 ---
-cover: ../.gitbook/assets/Screenshot 2022-04-24 215114.jpg
-coverY: 57.836851112378774
+cover: ../.gitbook/assets/lands.jpg
+coverY: 0
 ---
 
 # 🏝 Lands
