@@ -1,6 +1,6 @@
 # 🏕 Guilds
 
-There are [treasure Islands](battles.md#treasure-island) with different difficulties to occupy. Some of them are harder to occupy on your own and of course, they contain more treasures. You can join a guild or create your own guild and play with your friend to occupy Island and defend it from other players' invasion.
+There are [Treasure Islands](battles.md#treasure-island) with different difficulties to deal with. Some of them are harder to deal with them on your own and of course, they contain more treasures. You can join a guild or create your own guild and play with your friends to occupy Island and defend it from other players' invasion.
 
 Every guild has a leader. The leader can set a time to start the adventure for treasure island. Anyone who wants to join the adventure should send his/her units to the guild before that time. The chief also set the minimum and the maximum number of each unit required to start the adventure.&#x20;
 

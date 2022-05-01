@@ -5,7 +5,7 @@ coverY: 75.25385054192812
 
 # ⛏ Buildings
 
-Resource Buildings help you to gather CLEG tokens, Stone, and Iron to make your progress in the game. Resource Buildings have Health. They lose 2 HP per day and will stop working when their HP reaches 0. You can repair them by paying Game's token. Buildings Lose 5% of their performance by losing every 20 HP. The repair cost to recover 100 HP is 50% of the building value(The cost to build and upgrade the building to reach the current level).
+Resource buildings help you to gather CLEG tokens, Stone, and Iron to make your progress in the game. Resource buildings have Health. They lose 2 HP per day and will stop working when their HP reaches 0. You can repair them by paying the game's token. Buildings Lose 5% of their performance by losing every 20 HP. The repair cost to recover 100 HP is 50% of the building value (the cost to build and upgrade the building to reach the current level).
 
 Resource buildings also have a capacity. You have to collect their resources before they get full and stop working.
 
@@ -13,9 +13,9 @@ Resource buildings also have a capacity. You have to collect their resources bef
 
 ![](../.gitbook/assets/photo\_2022-04-23\_16-10-28.jpg)
 
-Level 1 is free for all. Everyone has a free CLEG mine with 50 CLEG Production Per day. Max Cap: 50 CLEG.&#x20;
+Level 1 is free for all. Everyone has a free CLEG Mine with 50 CLEG Production Per day. Capacity: 50 CLEG.&#x20;
 
-| Level | Upgrade Time | Upgrade Cost | Production \* | Max Cap   |
+| Level | Upgrade Time | Upgrade Cost | Production \* | Capacity  |
 | ----- | ------------ | ------------ | ------------- | --------- |
 | 1     | 0 hours      | Free         | 50 CLEG       | 50 CLEG   |
 | 2     | 12 hours     | 1,000 CLEG   | 95 CLEG       | 100 CLEG  |
@@ -34,7 +34,7 @@ Level 1 is free for all. Everyone has a free CLEG mine with 50 CLEG Production P
 
 ![](../.gitbook/assets/CLEG-stone-mine.webp)
 
-| Level | Upgrade Time | Cost       | Production \* | Max Cap     |
+| Level | Upgrade Time | Cost       | Production \* | Capacity    |
 | ----- | ------------ | ---------- | ------------- | ----------- |
 | 1     | 12 hours     | 400 CLEG   | 100 Stone     | 100 Stone   |
 | 2     | 24 hours     | 400 CLEG   | 190 Stone     | 200 Stone   |
@@ -53,11 +53,7 @@ Level 1 is free for all. Everyone has a free CLEG mine with 50 CLEG Production P
 
 ![](../.gitbook/assets/CLEG-iron-mine.webp)
 
-Level 1: 500 CLEG Cost. 50 Iron Production Per day. Max Cap 50 Irons. Build Time: 12 hours
-
-
-
-| Level | Upgrade Time | Cost                              | Production \* | Max Cap    |
+| Level | Upgrade Time | Cost                              | Production \* | Capacity   |
 | ----- | ------------ | --------------------------------- | ------------- | ---------- |
 | 1     | 12 hours     | <p>500 CLEG,</p><p>500 Stone</p>  | 100 Iron      | 100 Iron   |
 | 2     | 24 hours     | <p>500 CLEG,</p><p>500 Stone</p>  | 190 Iron      | 200 Iron   |
@@ -74,9 +70,9 @@ Level 1: 500 CLEG Cost. 50 Iron Production Per day. Max Cap 50 Irons. Build Time
 
 ## Barracks
 
-Barracks are used to train troops and heal them after a battle. Train speed / Combine Time: 12 hours. Healing 10 per hour. Max Cap: 5.&#x20;
+Barracks are used to train troops and heal them after a battle. Train speed / Combine Time: 12 hours. Healing 10 per hour. Capacity: 5.&#x20;
 
-By upgrading barracks, Max Cap will increase by 2 per level. And Armor, Damage, and Magic Resistance of units will increase by 10% per level.
+By upgrading barracks, Capacity will increase by 2 per level. And Armor, Damage, and Magic Resistance of units will increase by 10% per level.
 
 ![Barracks](../.gitbook/assets/CLEG-Barracks.webp)
 
@@ -92,7 +88,7 @@ By upgrading barracks, Max Cap will increase by 2 per level. And Armor, Damage, 
 | 8     | 96 hours     | <p>64000 CLEG,<br>64000 Stone,<br>64000 Iron</p> | 1280 HP         | 19 Units | 640%             |
 
 {% hint style="info" %}
-&#x20;\*  Healing/Hour: When units are injured in battles, their HP will recover in Barracks equal to Healing/Hour divided by injured soldiers per hour. For Example, If Barrack's Healing/Hour is 10 and there are 5 Injured units, Each unit will receive 2 HP per hour.
+&#x20;\*  Healing/Hour: When units are injured in battles, their HP will recover in Barracks equal to Healing/Hour divided by injured soldiers per hour. For Example, If Barrack's Healing/Hour is 10 and there are 5 injured units, each unit will receive 2 HP per hour.
 {% endhint %}
 
 {% hint style="info" %}
@@ -101,5 +97,5 @@ By upgrading barracks, Max Cap will increase by 2 per level. And Armor, Damage, 
 
 ### Upgrades
 
-Upgrades Take Time Depending on the building level. You can pay 10% more resources to get 24 hours deducted from the remaining time. For example, for a building that needs 1000 tokens and 3 days to get upgraded, you can pay 1300 tokens to upgrade your building instantly.
+Upgrades take time depending on the building level. You can pay 10% more resources to have 24 hours deducted from the remaining upgrade timer. For example, for a building that needs 1000 tokens and 3 days to get upgraded, you can pay 1300 tokens to upgrade your building instantly.
 

@@ -1,6 +1,6 @@
 # 🪖 Troops
 
-In [barracks](buildings.md#barracks), you can train units. some of the units are not trainable in barracks, but you can find them in [adventures](battles.md).
+In [Barracks](buildings.md#barracks), you can train units. Some of the units are not trainable in barracks, but you can find them on [adventures](battles.md).
 
 ![Warrior](<../.gitbook/assets/10 (2).png>) ![Archer](../.gitbook/assets/archer.png)
 
@@ -23,11 +23,11 @@ In [barracks](buildings.md#barracks), you can train units. some of the units are
 | Dragon     | <p>100 AOE Magical Damage<br>Range: 2</p>                          | <p>Armor: 200<br>HP: 500</p>                               | 1% Drops in dungeons              |
 | Goblin     | <p>20 Physical Damage<br>Range: 1</p>                              | <p>Armor: 50<br>HP: 200</p>                                | 10% Drops in dungeons             |
 
-\*\* AOE: Area of effect. Deals damage to units in 1 range distance of target unit.
+\*\* AOE (Area of effect): Deals damage to units within 1 range distance of the target unit.
 
 ### Unit Levels
 
-Units earn experience (XP) in battles. when they get enough XP, they will upgrade to the next level, by upgrading to new levels, units' HP, Attack Damage, and Healing will increase by 50%. For ranged units, they will get 1 more attack range every 3 levels. For example, the table below shows the stats of Archer at each Level.
+Units earn experience (XP) in battles. When they get enough XP, they will upgrade to the next Level. by upgrading to new levels, units' HP, Attack Damage, and Healing will increase by 50%. For ranged units, they will get 1 more attack range every 3 levels. For example, the table below shows the stats of Archer at each Level.
 
 | Level | XP required | Attack | HP      | Attack Range |
 | ----- | ----------- | ------ | ------- | ------------ |
@@ -47,6 +47,6 @@ The amount of XP that each unit earns in a battle is:\
 
 ### Combining Unit
 
-You can combine 2 units with the same level to get 1 stronger unit with 1 higher level. The XP of the new unit is equivalent to the sum of previous units.
+You can combine 2 units with the same level to get 1 stronger unit with one level higher. The XP of the new unit is equivalent to the sum of previous units.
 
-Example: if you combine 2 warriors with Level 3 and the first one has 10000 XP and the second one has 15000 XP, then you will get a new warrior with level 4 and 25000 XP
+Example: if you combine two warriors with Level 3 and the first one has 10000 XP and the second one has 15000 XP, then you will get a new warrior with level 4 and 25000 XP

@@ -4,7 +4,7 @@ Total Supply: 1,000,000,000 Tokens
 
 Initial Supply: 100,000,000 Tokens
 
-IDO price: 0.008$
+IDO Price: 0.008$
 
 ![](.gitbook/assets/Group-40560.png)
 
