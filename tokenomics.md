@@ -16,7 +16,7 @@ IDO Price: 0.008$
 | **Team**                                      |      80M     |    8%   | 36 Months |
 | **CEX Listing**                               |      50M     |    5%   |           |
 | **Marketing**                                 |      50M     |    5%   | 36 Months |
-| **Dex Liquidity**                             |      50M     |    5%   |           |
+| **DEX Liquidity**                             |      50M     |    5%   |           |
 | **Community** (Airdrops / Rewards / Referral) |      40M     |    4%   | 24 Month  |
 | **Development**                               |      30M     |    3%   | 18 Months |
 
