@@ -1,3 +1,8 @@
+---
+cover: ../.gitbook/assets/Troops.jpg
+coverY: 16.332036316472113
+---
+
 # 🪖 Troops
 
 In [Barracks](buildings.md#barracks), you can train units. Some of the units are not trainable in barracks, but you can find them on [adventures](battles.md).
