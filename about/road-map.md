@@ -5,6 +5,7 @@
 * [x] Developing the website
 * [x] Developing Smart Contract
 * [x] Concept, Model, and animate 3d models of troops, and building
+* [x] 80,000 Social Communities' members.
 * [x] NFT Sales
 
 ### 2022 Q2
