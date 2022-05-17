@@ -15,19 +15,19 @@ Resource buildings also have a capacity. You have to collect their resources bef
 
 Level 1 is free for all. Everyone has a free CLEG Mine with 50 CLEG Production Per day. Capacity: 50 CLEG.&#x20;
 
-| Level | Upgrade Time | Upgrade Cost | Production \* | Capacity  |
-| ----- | ------------ | ------------ | ------------- | --------- |
-| 1     | 0 hours      | Free         | 50 CLEG       | 50 CLEG   |
-| 2     | 12 hours     | 1,000 CLEG   | 95 CLEG       | 100 CLEG  |
-| 3     | 24 hours     | 2,000 CLEG   | 181 CLEG      | 200 CLEG  |
-| 4     | 36 hours     | 4,000 CLEG   | 343 CLEG      | 400 CLEG  |
-| 5     | 48 hours     | 8,000 CLEG   | 652 CLEG      | 800 CLEG  |
-| 6     | 60 hours     | 16,000 CLEG  | 1,238 CLEG    | 1600 CLEG |
-| 7     | 72 hours     | 32,000 CLEG  | 2,352 CLEG    | 3200 CLEG |
-| 8     | 84 hours     | 64,000 CLEG  | 4,469  CLEG   | 6400 CLEG |
+| Level | Upgrade Time | Cost        | Production \* | Capacity  |
+| ----- | ------------ | ----------- | ------------- | --------- |
+| 1     | 0 hours      | Free        | 50 CLEG       | 50 CLEG   |
+| 2     | 12 hours     | 1,000 CLEG  | 95 CLEG       | 100 CLEG  |
+| 3     | 24 hours     | 2,000 CLEG  | 181 CLEG      | 200 CLEG  |
+| 4     | 36 hours     | 4,000 CLEG  | 343 CLEG      | 400 CLEG  |
+| 5     | 48 hours     | 8,000 CLEG  | 652 CLEG      | 800 CLEG  |
+| 6     | 60 hours     | 16,000 CLEG | 1,238 CLEG    | 1600 CLEG |
+| 7     | 72 hours     | 32,000 CLEG | 2,352 CLEG    | 3200 CLEG |
+| 8     | 84 hours     | 64,000 CLEG | 4,469  CLEG   | 6400 CLEG |
 
 {% hint style="warning" %}
-&#x20;\*  Production numbers are related to cycle 1. In the next cycles, the production will be reduced. Read more about [Mining Cycles](../price-stability.md#mining-cycles).
+&#x20;\*  Production per day. numbers are related to cycle 1. In the next cycles, the production will be reduced. Read more about [Mining Cycles](../price-stability.md#mining-cycles).
 {% endhint %}
 
 ### Stone Mine
@@ -46,7 +46,7 @@ Level 1 is free for all. Everyone has a free CLEG Mine with 50 CLEG Production P
 | 8     | 96 hours     | 25600 CLEG | 8939 Stone    | 12800 Stone |
 
 {% hint style="warning" %}
-\*  Production numbers are related to cycle 1. In the next cycles, the production will be reduced. Read more about [Mining Cycles](../price-stability.md#mining-cycles).
+\*  Production per day. numbers are related to cycle 1. In the next cycles, the production will be reduced. Read more about [Mining Cycles](../price-stability.md#mining-cycles).
 {% endhint %}
 
 ### Iron Mine
@@ -65,7 +65,7 @@ Level 1 is free for all. Everyone has a free CLEG Mine with 50 CLEG Production P
 | 8     | 96 hours     | <p>32000 CLEG,<br>32000 Stone</p> | 8939 Iron     | 12800 Iron |
 
 {% hint style="warning" %}
-\*  Production numbers are related to cycle 1. In the next cycles, the production will be reduced. Read more about [Mining Cycles](../price-stability.md#mining-cycles).
+\*  Production per day. numbers are related to cycle 1. In the next cycles, the production will be reduced. Read more about [Mining Cycles](../price-stability.md#mining-cycles).
 {% endhint %}
 
 ## Barracks
