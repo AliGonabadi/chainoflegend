@@ -11,8 +11,8 @@
 ### 2022 Q2
 
 * [ ] [Marketplace](../guides/marketplace.md)
-* [ ] Game Beta version
-* [ ] IDO
+* [x] Game Beta version
+* [x] IDO
 * [ ] Game version 1 with basic mining and play to earn feature (Lands and mines)
 
 ### 2022 Q3
