@@ -6,12 +6,11 @@ Initial Supply: 100,000,000 Tokens
 
 IDO Price: 0.008$
 
-![](.gitbook/assets/Group-40560.png)
+![](.gitbook/assets/tokenomics.png)
 
 |                                               | Total Supply | Percent | Vesting   |
 | --------------------------------------------- | :----------: | :-----: | --------- |
 | **Play to Earn**                              |     500M     |   50%   |           |
-| **Reserved** (Play to Earn)                   |     100M     |   10%   |           |
 | **IDO**                                       |     100M     |   10%   |           |
 | **Team**                                      |      80M     |    8%   | 36 Months |
 | **CEX Listing**                               |      50M     |    5%   |           |
