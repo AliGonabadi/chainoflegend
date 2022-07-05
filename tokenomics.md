@@ -21,4 +21,4 @@ IDO Price: 0.008$
 
 Vesting tokens locked [unicrypt.network](https://app.unicrypt.network/amm/pancake-v2/token/0x4027d91eCD3140e53AE743d657549adfeEbB27AB) platform and vesting over time based on the vesting plan. You can see more details in the [Chain of Legends Token Vesting Google Sheet](https://docs.google.com/spreadsheets/d/1Z-Gc0C3G\_frqcQPOv7BdwGo-QaTbgm2UpO9uVBXfHR8/edit?usp=sharing).\
 \
-600 million Play-to-Earn reward pool [locked on pinksale lock platform](https://www.pinksale.finance/pinklock/record/1012776?chain=BSC)
+\* 600 million Play-to-Earn reward pool [locked on pinksale lock platform](https://www.pinksale.finance/pinklock/record/1012776?chain=BSC)
