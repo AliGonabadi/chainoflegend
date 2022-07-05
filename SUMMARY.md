@@ -10,6 +10,7 @@
 * [👷 Resources](guides/resources.md)
 * [⛏ Buildings](guides/buildings.md)
 * [🏝 Lands](guides/lands.md)
+* [🎁 NFT Genesis Boxes](guides/nft-genesis-boxes.md)
 * [🪖 Troops](guides/heroes.md)
 * [🗺 Adventures](guides/adventures.md)
 * [⚔ Battles](guides/battles.md)
