@@ -11,3 +11,5 @@ You can buy NFTs from available offers or you can place a bid with your desirabl
 ![](<../.gitbook/assets/Screenshot 2022-04-24 222026.jpg>)
 
 By clicking on each item in the Marketplace, you will see its order book containing a list of sell and buy offers for that item. you can sell your item to available buy offers, or buy items from available sell offers or place your own offer.
+
+Trading in the marketplace has a 5% fee only from one side. For example, if someone sells a land for 100 CLEGs, the buyer will pay 100 CLEGs, and seller will receive 95 CLEGs.
