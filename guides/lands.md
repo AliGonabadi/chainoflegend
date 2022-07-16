@@ -9,7 +9,7 @@ You need lands to place your [buildings ](buildings.md)and start earning resourc
 
 There are 5 types of lands:
 
-![Desert: Has \~25 tokens\* and no Iron and Stone resources. Every new user can start with this land with -10% earning rate (2800 lands available per day)](../.gitbook/assets/land-desert.png) ![Common: Has \~235 tokens\*, Iron and Stone. (1400 lands available per day)](../.gitbook/assets/land-common.png)
+![Desert: Has \~25 tokens\* and no Iron and Stone resources. Every new user can start with this land with -25% earning rate (2800 lands available per day)](../.gitbook/assets/land-desert.png) ![Common: Has \~235 tokens\*, Iron and Stone. (1400 lands available per day)](../.gitbook/assets/land-common.png)
 
 ![Uncommon: Has \~700 tokens\*, Iron and Stone. +10% earning rate. (480 lands available per day)](../.gitbook/assets/land-uncommon.png) ![Rare: Has \~2800 tokens\*, Iron and Stone. +20% earning rate. (100 lands available per day)](../.gitbook/assets/land-rare.png)
 
