@@ -10,14 +10,14 @@
 
 ### 2022 Q2
 
-* [ ] [Marketplace](../guides/marketplace.md)
+* [x] [Marketplace](../guides/marketplace.md)
 * [x] Game Beta version
 * [x] IDO
-* [ ] Game version 1 with basic mining and play to earn feature (Lands and mines)
+* [x] Game version 1 with basic mining and play to earn feature (Lands and mines)
 
 ### 2022 Q3
 
-* [ ] New Exchange Listing
+* [x] New Exchange Listing ([https://www.xt.com/tradePro/cleg\_usdt](https://www.xt.com/tradePro/cleg\_usdt))
 * [ ] More objectives in the game and PVE model ([Buildings](../guides/buildings.md), [Troops](../guides/heroes.md), [Dungeons](../guides/adventures.md#dungeons))
 * [ ] PVP Mode. [Treasure Island](../guides/adventures.md#treasure-island), [Battle system](../guides/battles.md)
 
