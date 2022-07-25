@@ -13,27 +13,26 @@ Resource buildings also have a capacity. You have to collect their resources bef
 
 ![](../.gitbook/assets/photo\_2022-04-23\_16-10-28.jpg)
 
-Level 1 is free for all. Everyone has a free CLEG Mine with 50 CLEG Production Per day. Capacity: 50 CLEG.
+Level 1 is free for all. Everyone has a free CLEG Mine with 50 CLEG Production Per day. Capacity: 50 CLEG.&#x20;
 
-| Level | Upgrade Time | Cost        | Production \* | Capacity  | 1 HP Repair\*\* |
-| ----- | ------------ | ----------- | ------------- | --------- | --------------- |
-| 1     | 0 hours      | Free        | 50 CLEG       | 50 CLEG   | 0 CLEG          |
-| 2     | 12 hours     | 1,000 CLEG  | 95 CLEG       | 100 CLEG  | 5 CLEG          |
-| 3     | 24 hours     | 2,000 CLEG  | 181 CLEG      | 200 CLEG  | 15 CLEG         |
-| 4     | 36 hours     | 4,000 CLEG  | 343 CLEG      | 400 CLEG  | 35 CLEG         |
-| 5     | 48 hours     | 8,000 CLEG  | 652 CLEG      | 800 CLEG  | 75 CLEG         |
-| 6     | 60 hours     | 16,000 CLEG | 1,238 CLEG    | 1600 CLEG | 155 CLEG        |
-| 7     | 72 hours     | 32,000 CLEG | 2,352 CLEG    | 3200 CLEG | 315 CLEG        |
-| 8     | 84 hours     | 64,000 CLEG | 4,469 CLEG    | 6400 CLEG | 635 CLEG        |
+| Level | Upgrade Time | Cost        | Production \* | 1 HP Repair\*\* | Capacity  |
+| ----- | ------------ | ----------- | ------------- | --------------- | --------- |
+| 1     | 0 hours      | Free        | 50 CLEG       | 0 CLEG          | 50 CLEG   |
+| 2     | 12 hours     | 1,000 CLEG  | 95 CLEG       | 5 CLEG          | 100 CLEG  |
+| 3     | 24 hours     | 2,000 CLEG  | 181 CLEG      | 15 CLEG         | 200 CLEG  |
+| 4     | 36 hours     | 4,000 CLEG  | 343 CLEG      | 35 CLEG         | 400 CLEG  |
+| 5     | 48 hours     | 8,000 CLEG  | 652 CLEG      | 75 CLEG         | 800 CLEG  |
+| 6     | 60 hours     | 16,000 CLEG | 1,238 CLEG    | 155 CLEG        | 1600 CLEG |
+| 7     | 72 hours     | 32,000 CLEG | 2,352 CLEG    | 315 CLEG        | 3200 CLEG |
+| 8     | 84 hours     | 64,000 CLEG | 4,469  CLEG   | 635 CLEG        | 6400 CLEG |
 
 {% hint style="warning" %}
-\* Production per day. numbers are related to cycle 1. In the next cycles, the production will be reduced. Read more about [Mining Cycles](../price-stability.md#mining-cycles).
+&#x20;\*  Production per day. numbers are related to cycle 1. In the next cycles, the production will be reduced. Read more about [Mining Cycles](../price-stability.md#mining-cycles).
 {% endhint %}
 
-{% hint style="info" %}
-\*\* Cost for repair for each missing Health.
+{% hint style="warning" %}
+&#x20;\*\*  Cost for repair for each missing Health.
 {% endhint %}
-
 ### Stone Mine
 
 ![](../.gitbook/assets/CLEG-stone-mine.webp)
@@ -50,7 +49,7 @@ Level 1 is free for all. Everyone has a free CLEG Mine with 50 CLEG Production P
 | 8     | 96 hours     | 25600 CLEG | 8939 Stone    | 12800 Stone |
 
 {% hint style="warning" %}
-\* Production per day. numbers are related to cycle 1. In the next cycles, the production will be reduced. Read more about [Mining Cycles](../price-stability.md#mining-cycles).
+\*  Production per day. numbers are related to cycle 1. In the next cycles, the production will be reduced. Read more about [Mining Cycles](../price-stability.md#mining-cycles).
 {% endhint %}
 
 ### Iron Mine
@@ -69,12 +68,12 @@ Level 1 is free for all. Everyone has a free CLEG Mine with 50 CLEG Production P
 | 8     | 96 hours     | <p>32000 CLEG,<br>32000 Stone</p> | 8939 Iron     | 12800 Iron |
 
 {% hint style="warning" %}
-\* Production per day. numbers are related to cycle 1. In the next cycles, the production will be reduced. Read more about [Mining Cycles](../price-stability.md#mining-cycles).
+\*  Production per day. numbers are related to cycle 1. In the next cycles, the production will be reduced. Read more about [Mining Cycles](../price-stability.md#mining-cycles).
 {% endhint %}
 
 ## Barracks
 
-Barracks are used to train troops and heal them after a battle. Train speed / Combine Time: 12 hours. Healing 10 per hour. Capacity: 5.
+Barracks are used to train troops and heal them after a battle. Train speed / Combine Time: 12 hours. Healing 10 per hour. Capacity: 5.&#x20;
 
 By upgrading barracks, Capacity will increase by 2 per level. And Armor, Damage, and Magic Resistance of units will increase by 10% per level.
 
@@ -92,13 +91,14 @@ By upgrading barracks, Capacity will increase by 2 per level. And Armor, Damage,
 | 8     | 96 hours     | <p>64000 CLEG,<br>64000 Stone,<br>64000 Iron</p> | 1280 HP         | 19 Units | 640%             |
 
 {% hint style="info" %}
-\* Healing/Hour: When units are injured in battles, their HP will recover in Barracks equal to Healing/Hour divided by injured soldiers per hour. For Example, If Barrack's Healing/Hour is 10 and there are 5 injured units, each unit will receive 2 HP per hour.
+&#x20;\*  Healing/Hour: When units are injured in battles, their HP will recover in Barracks equal to Healing/Hour divided by injured soldiers per hour. For Example, If Barrack's Healing/Hour is 10 and there are 5 injured units, each unit will receive 2 HP per hour.
 {% endhint %}
 
 {% hint style="info" %}
-\*\* Bonus Stats will add to Units' Damage, Armor, Magic Resistance, and Healing Power.
+&#x20;\*\*  Bonus Stats will add to Units' Damage, Armor, Magic Resistance, and Healing Power.
 {% endhint %}
 
 ### Upgrades
 
 Upgrades take time depending on the building level. You can pay 10% more resources to have 24 hours deducted from the remaining upgrade timer. For example, for a building that needs 1000 tokens and 3 days to get upgraded, you can pay 1300 tokens to upgrade your building instantly.
+
