@@ -6,6 +6,8 @@ We are using many mechanisms to control the price and reduce pumps, dumps and co
 
 70% of all the tokens that players spend in the game will burn and the remaining 30% will move back to the reward pool. The last token will be mined in the 2034 year or later. After that, we use the reserved token pool to continue the game's economy.
 
+View [Token Burn Details](https://docs.google.com/spreadsheets/d/1jTGPdGgSPoGODWzqaJmpVmQr\_ePfBykKbV1Oh7nBhqU/edit?usp=sharing)
+
 ### Mining Limits
 
 Compound Interest is the biggest issue in blockchain games. In the beginning, players with little investment, reinvest their income into the game which is good for the game's economy. After a while, they will reach an enormous income that grows faster than the community. And when they start cashing out, it will cause the token price to decrease continuously.
