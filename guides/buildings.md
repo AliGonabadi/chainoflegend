@@ -80,19 +80,19 @@ By upgrading barracks, Capacity will increase by 2 per level. And Armor, Damage,
 
 ![Barracks](../.gitbook/assets/CLEG-Barracks.webp)
 
-| Level | Upgrade Time | Cost                                             | Healing/Hour \* | Capacity | Bonus Stats \*\* |
-| ----- | ------------ | ------------------------------------------------ | --------------- | -------- | ---------------- |
-| 1     | 12 hours     | <p>1000 CLEG,<br>1000 Stone,<br>1000 Iron</p>    | 10 HP           | 5 Units  | 0%               |
-| 2     | 24 hours     | <p>1000 CLEG,<br>1000 Stone,<br>1000 Iron</p>    | 20 HP           | 7 Units  | 10%              |
-| 3     | 36 hours     | <p>2000 CLEG,<br>2000 Stone,<br>2000 Iron</p>    | 40 HP           | 9 Units  | 20%              |
-| 4     | 48 hours     | <p>4000 CLEG,<br>4000 Stone,<br>4000 Iron</p>    | 80 HP           | 11 Units | 40%              |
-| 5     | 60 hours     | <p>8000 CLEG,<br>8000 Stone,<br>8000 Iron</p>    | 160 HP          | 13 Units | 80%              |
-| 6     | 72 hours     | <p>16000 CLEG,<br>16000 Stone,<br>16000 Iron</p> | 320 HP          | 15 Units | 160%             |
-| 7     | 84 hours     | <p>32000 CLEG,<br>32000 Stone,<br>32000 Iron</p> | 640 HP          | 17 Units | 320%             |
-| 8     | 96 hours     | <p>64000 CLEG,<br>64000 Stone,<br>64000 Iron</p> | 1280 HP         | 19 Units | 640%             |
+| Level | Upgrade Time | Cost                                             | Healing/Day \* | Capacity | Bonus Stats \*\* |
+| ----- | ------------ | ------------------------------------------------ | -------------- | -------- | ---------------- |
+| 1     | 12 hours     | <p>1000 CLEG,<br>1000 Stone,<br>1000 Iron</p>    | 240 HP         | 5 Units  | 0%               |
+| 2     | 24 hours     | <p>1000 CLEG,<br>1000 Stone,<br>1000 Iron</p>    | 480 HP         | 7 Units  | 10%              |
+| 3     | 36 hours     | <p>2000 CLEG,<br>2000 Stone,<br>2000 Iron</p>    | 960 HP         | 9 Units  | 20%              |
+| 4     | 48 hours     | <p>4000 CLEG,<br>4000 Stone,<br>4000 Iron</p>    | 1920 HP        | 11 Units | 40%              |
+| 5     | 60 hours     | <p>8000 CLEG,<br>8000 Stone,<br>8000 Iron</p>    | 3840 HP        | 13 Units | 80%              |
+| 6     | 72 hours     | <p>16000 CLEG,<br>16000 Stone,<br>16000 Iron</p> | 7680 HP        | 15 Units | 160%             |
+| 7     | 84 hours     | <p>32000 CLEG,<br>32000 Stone,<br>32000 Iron</p> | 15360 HP       | 17 Units | 320%             |
+| 8     | 96 hours     | <p>64000 CLEG,<br>64000 Stone,<br>64000 Iron</p> | 30720 HP       | 19 Units | 640%             |
 
 {% hint style="info" %}
-\* Healing/Hour: When units are injured in battles, their HP will recover in Barracks equal to Healing/Hour divided by injured soldiers per hour. For Example, If Barrack's Healing/Hour is 10 and there are 5 injured units, each unit will receive 2 HP per hour.
+\* Healing/Day: When units are injured in battles, their HP will recover in Barracks equal to Healing/Day divided by injured soldiers per day. For Example, If Barrack's Healing/Day is 240 and there are 10 injured units, each unit will receive 24 HP per day.
 {% endhint %}
 
 {% hint style="info" %}
