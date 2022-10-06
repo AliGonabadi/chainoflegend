@@ -13,18 +13,19 @@ Resource buildings also have a capacity. You have to collect their resources bef
 
 ![](../.gitbook/assets/photo\_2022-04-23\_16-10-28.jpg)
 
-Level 1 is free for all. Everyone has a free CLEG Mine with 50 CLEG Production Per day. Capacity: 50 CLEG.
+Level 0 is free for all. Everyone has a free CLEG Mine with 25 CLEG Production Per day. Capacity: 25 CLEG.
 
 | Level | Upgrade Time | Cost        | Production \* | 1 HP Repair\*\* | Capacity \* |
 | ----- | ------------ | ----------- | ------------- | --------------- | ----------- |
-| 1     | 0 hours      | Free        | 50 CLEG       | 0 CLEG          | 50 CLEG     |
-| 2     | 12 hours     | 1,000 CLEG  | 95 CLEG       | 5 CLEG          | 100 CLEG    |
-| 3     | 24 hours     | 2,000 CLEG  | 181 CLEG      | 15 CLEG         | 200 CLEG    |
-| 4     | 36 hours     | 4,000 CLEG  | 343 CLEG      | 35 CLEG         | 400 CLEG    |
-| 5     | 48 hours     | 8,000 CLEG  | 652 CLEG      | 75 CLEG         | 800 CLEG    |
-| 6     | 60 hours     | 16,000 CLEG | 1,238 CLEG    | 155 CLEG        | 1600 CLEG   |
-| 7     | 72 hours     | 32,000 CLEG | 2,352 CLEG    | 315 CLEG        | 3200 CLEG   |
-| 8     | 84 hours     | 64,000 CLEG | 4,469 CLEG    | 635 CLEG        | 6400 CLEG   |
+| 0     | 0            | Free        | 25            | 0               | 25          |
+| 1     | 0 hours      | 1,000 CLEG  | 50 CLEG       | 5 CLEG          | 50 CLEG     |
+| 2     | 12 hours     | 1,000 CLEG  | 95 CLEG       | 10 CLEG         | 100 CLEG    |
+| 3     | 24 hours     | 2,000 CLEG  | 181 CLEG      | 20 CLEG         | 200 CLEG    |
+| 4     | 36 hours     | 4,000 CLEG  | 343 CLEG      | 40 CLEG         | 400 CLEG    |
+| 5     | 48 hours     | 8,000 CLEG  | 652 CLEG      | 80 CLEG         | 800 CLEG    |
+| 6     | 60 hours     | 16,000 CLEG | 1,238 CLEG    | 160 CLEG        | 1600 CLEG   |
+| 7     | 72 hours     | 32,000 CLEG | 2,352 CLEG    | 320 CLEG        | 3200 CLEG   |
+| 8     | 84 hours     | 64,000 CLEG | 4,469 CLEG    | 640 CLEG        | 6400 CLEG   |
 
 {% hint style="warning" %}
 \* Production per day and Capacity numbers are related to cycle 1. In the next cycles, the production will be reduced. Read more about [Mining Cycles](../price-stability.md#mining-cycles).
