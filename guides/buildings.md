@@ -17,8 +17,8 @@ Level 0 is free for all. Everyone has a free CLEG Mine with 25 CLEG Production P
 
 | Level | Upgrade Time | Cost        | Production \* | 1 HP Repair\*\* | Capacity \* |
 | ----- | ------------ | ----------- | ------------- | --------------- | ----------- |
-| 0     | 0            | Free        | 25            | 0               | 25          |
-| 1     | 0 hours      | 1,000 CLEG  | 50 CLEG       | 5 CLEG          | 50 CLEG     |
+| 0     | 0 hours      | Free        | 25            | 0               | 25          |
+| 1     | 6 hours      | 1,000 CLEG  | 50 CLEG       | 5 CLEG          | 50 CLEG     |
 | 2     | 12 hours     | 1,000 CLEG  | 95 CLEG       | 10 CLEG         | 100 CLEG    |
 | 3     | 24 hours     | 2,000 CLEG  | 181 CLEG      | 20 CLEG         | 200 CLEG    |
 | 4     | 36 hours     | 4,000 CLEG  | 343 CLEG      | 40 CLEG         | 400 CLEG    |
