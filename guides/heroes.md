@@ -9,7 +9,7 @@ In [Barracks](buildings.md#barracks), you can train units. Some of the units are
 
 ![Warrior](<../.gitbook/assets/10 (2).png>) ![Archer](../.gitbook/assets/archer.png)
 
-![Lieutenant](../.gitbook/assets/Lieutenant.png) ![Cavalry Knight](../.gitbook/assets/Knight.png)
+![Lieutenant](../.gitbook/assets/Lieutenant.png) ![Cavalry Knight](<../.gitbook/assets/Knight (1).png>)
 
 ![Royal Mage](../.gitbook/assets/32.png) ![Catapult](../.gitbook/assets/Catapult.png)
 
@@ -47,8 +47,7 @@ Units earn experience (XP) in battles. When they get enough XP, they will upgrad
 | 9     | 1,280,000   | 769    | 3075 HP | 4            |
 | 10    | 2,560,000   | 1153   | 4613 HP | 5            |
 
-The amount of XP that each unit earns in a battle is:\
-**Unit's** **Battle XP** = **Total Damage Dealt** + **Total Damage Received** + **Total Healing Done**
+Each troop earns 10 XP if they win the battle, but if they lose the battle, troops will earn 5 XP. Required XP for level up is 100 \* current level. For example: Troop level 1 requires 100 XP to level, and troop level 5 needs 500 XP to reach to the next level.
 
 ### Combining Unit
 
