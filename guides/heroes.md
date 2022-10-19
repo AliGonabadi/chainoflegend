@@ -47,7 +47,7 @@ Units earn experience (XP) in battles. When they get enough XP, they will upgrad
 | 9     | 1,280,000   | 769    | 3075 HP | 4            |
 | 10    | 2,560,000   | 1153   | 4613 HP | 5            |
 
-Each troop earns 10 XP if they win the battle, but if they lose the battle, troops will earn 5 XP. Required XP for level up is 100 \* current level. For example: Troop level 1 requires 100 XP to level, and troop level 5 needs 500 XP to reach to the next level.
+Each troop earns 10 XP if they win the battle, but if they lose the battle, troops will earn 5 XP. Required XP for level up is 100 \* current level. For example: Troop level 1 requires 100 XP to level up, and troop level 5 needs 500 XP to reach to the next level.
 
 ### Combining Unit
 
