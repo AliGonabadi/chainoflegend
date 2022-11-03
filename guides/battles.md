@@ -24,12 +24,12 @@ Armor and Magic Resistance help units to get damaged less in battles.
 
 Here is how Armor affects Physical Damage:
 
-Physical Resistance = 1 - ( 1 / ( Armor / 100 + 1))
+Physical Resistance = 1 / ( 200 / Armor + 1))
 
 Example: A unit with 50 Armor will get **33%** less physical Damage:
 
-Physical Resistance = 1 - ( 1 / ( 50 / 100 + 1)) =  **33%**
+Physical Resistance = 1 - ( 200 / 50 + 1)) =  **20%**
 
 Magic Resistance has the same formula:
 
-Magic Resistance = 1 - ( 1 / ( Magic Resistance / 100 + 1))
+Magic Resistance = 1 / ( 200 / Magic Resistance + 1))
