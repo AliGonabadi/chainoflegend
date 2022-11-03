@@ -10,7 +10,6 @@ On the [adventure](adventures.md) page, you can send your [troops ](heroes.md)to
 Priorities:
 
 * Closest
-* Highest HP
 * Lowest HP
 * Highest Damage
 
@@ -26,10 +25,10 @@ Here is how Armor affects Physical Damage:
 
 Physical Resistance = 1 / ( 200 / Armor + 1))
 
-Example: A unit with 50 Armor will get **33%** less physical Damage:
+Example: A unit with 50 Armor will get 20**%** less physical Damage:
 
 Physical Resistance = 1 - ( 200 / 50 + 1)) =  **20%**
 
 Magic Resistance has the same formula:
 
-Magic Resistance = 1 / ( 200 / Magic Resistance + 1))
+Magic Resistance = 1 / ( 200 / Magic Resistance + 1)
