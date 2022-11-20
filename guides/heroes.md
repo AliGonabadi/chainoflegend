@@ -7,13 +7,39 @@ coverY: 16.332036316472113
 
 In [Barracks](buildings.md#barracks), you can train units. Some of the units are not trainable in barracks, but you can find them on [adventures](battles.md).
 
-![Warrior](<../.gitbook/assets/10 (2).png>) ![Archer](../.gitbook/assets/archer.png)
+<div>
 
-![Lieutenant](../.gitbook/assets/Lieutenant.png) ![Cavalry Knight](<../.gitbook/assets/Knight (1).png>)
+<figure><img src="https://core.chainoflegends.com/assets/troops/image/warrior.webp" alt=""><figcaption><p>Warrior</p></figcaption></figure>
 
-![Royal Mage](../.gitbook/assets/32.png) ![Catapult](../.gitbook/assets/Catapult.png)
+ 
 
-![Dragon](../.gitbook/assets/59.png) ![Goblin](../.gitbook/assets/Goblin.png)
+<figure><img src="https://core.chainoflegends.com/assets/troops/image/archer.webp" alt=""><figcaption><p>Archer</p></figcaption></figure>
+
+ 
+
+<figure><img src="https://core.chainoflegends.com/assets/troops/image/guardian.webp" alt=""><figcaption><p>Guardian</p></figcaption></figure>
+
+ 
+
+<figure><img src="https://core.chainoflegends.com/assets/troops/image/Mage.webp" alt=""><figcaption><p>Mage</p></figcaption></figure>
+
+</div>
+
+<div>
+
+<figure><img src="https://core.chainoflegends.com/assets/troops/image/knight.webp" alt=""><figcaption><p>Cavalry knight</p></figcaption></figure>
+
+ 
+
+<figure><img src="https://core.chainoflegends.com/assets/troops/image/catapult.webp" alt=""><figcaption><p>Catapult</p></figcaption></figure>
+
+ 
+
+<figure><img src="https://core.chainoflegends.com/assets/troops/image/goblin.webp" alt=""><figcaption><p>Goblin</p></figcaption></figure>
+
+</div>
+
+<figure><img src="https://core.chainoflegends.com/assets/troops/image/dragon.webp" alt=""><figcaption><p>Dragon</p></figcaption></figure>
 
 ### Base Stats
 
@@ -47,7 +73,7 @@ Units earn experience (XP) in battles. When they get enough XP, they will upgrad
 | 9     | 1709        | 769    | 3075 HP | 4            |
 | 10    | 2563        | 1153   | 4613 HP | 5            |
 
-Each troop earns 10 XP if they win the battle, but if they lose the battle, troops will earn 5 XP. Required XP for level up tp level 2 is 100 and for next levels is is previous level required XP + 50%. For example: Troop level 1 requires 100 XP to level up, and troop level 2 needs 150 XP to reach to the next level.
+Each troop earns 10 XP if they win the battle, but if they lose the battle, troops will earn 5 XP. Required XP for level up to level 2 is 100 and for next levels is is previous level required XP + 50%. For example: Troop level 1 requires 100 XP to level up, and troop level 2 needs 150 XP to reach to the next level.
 
 ### Combining Unit
 
