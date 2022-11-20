@@ -38,19 +38,19 @@ Units earn experience (XP) in battles. When they get enough XP, they will upgrad
 | ----- | ----------- | ------ | ------- | ------------ |
 | 1     | -           | 30     | 120 HP  | 2            |
 | 2     | 100         | 45     | 180 HP  | 2            |
-| 3     | 200         | 68     | 270 HP  | 2            |
-| 4     | 300         | 101    | 405 HP  | 3            |
-| 5     | 400         | 152    | 608 HP  | 3            |
-| 6     | 500         | 228    | 911 HP  | 3            |
-| 7     | 600         | 342    | 1367 HP | 4            |
-| 8     | 700         | 513    | 2050 HP | 4            |
-| 9     | 800         | 769    | 3075 HP | 4            |
-| 10    | 900         | 1153   | 4613 HP | 5            |
+| 3     | 150         | 68     | 270 HP  | 2            |
+| 4     | 225         | 101    | 405 HP  | 3            |
+| 5     | 338         | 152    | 608 HP  | 3            |
+| 6     | 506         | 228    | 911 HP  | 3            |
+| 7     | 759         | 342    | 1367 HP | 4            |
+| 8     | 1139        | 513    | 2050 HP | 4            |
+| 9     | 1709        | 769    | 3075 HP | 4            |
+| 10    | 2563        | 1153   | 4613 HP | 5            |
 
-Each troop earns 10 XP if they win the battle, but if they lose the battle, troops will earn 5 XP. Required XP for level up is 100 \* current level. For example: Troop level 1 requires 100 XP to level up, and troop level 5 needs 500 XP to reach to the next level.
+Each troop earns 10 XP if they win the battle, but if they lose the battle, troops will earn 5 XP. Required XP for level up tp level 2 is 100 and for next levels is is previous level required XP + 50%. For example: Troop level 1 requires 100 XP to level up, and troop level 2 needs 150 XP to reach to the next level.
 
 ### Combining Unit
 
-You can combine 2 units with the same level to get 1 stronger unit with one level higher. The XP of the new unit is equivalent to the sum of previous units.
+You can combine 2 units with the same level to get 1 stronger unit with one level higher. The XP of the new unit is equivalent to the average of previous units.
 
-Example: if you combine two warriors with Level 3 and the first one has 100 XP and the second one has 150 XP, then you will get a new warrior with level 4 and 250 XP
+Example: if you combine two warriors with Level 3 and the first one has 100 XP and the second one has 150 XP, then you will get a new warrior with level 4 and 125 XP
