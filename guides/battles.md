@@ -27,7 +27,7 @@ Physical Resistance = 1 / ( 200 / Armor + 1))
 
 Example: A unit with 50 Armor will get 20**%** less physical Damage:
 
-Physical Resistance = 1 - ( 200 / 50 + 1)) =  **20%**
+Physical Resistance = 1 / ( 200 / 50 + 1)) =  **20%**
 
 Magic Resistance has the same formula:
 
