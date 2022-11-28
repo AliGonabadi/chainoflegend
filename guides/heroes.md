@@ -43,16 +43,16 @@ In [Barracks](buildings.md#barracks), you can train units. Some of the units are
 
 ### Base Stats
 
-| Name       | Damage                                                             | Defence                                                    | Resources                         |
-| ---------- | ------------------------------------------------------------------ | ---------------------------------------------------------- | --------------------------------- |
-| Warrior    | <p>50 Physical Damage<br>Attack Range: 1</p>                       | <p>Armor: 100<br>HP: 200</p>                               | CLEG: 100, Iron: 30               |
-| Archer     | <p>30 Physical Damage<br>Attack Range: 2</p>                       | <p>Armor: 30<br>HP: 120</p>                                | CLEG: 80, Iron: 10                |
-| Lieutenant | <p>40 Physical Damage<br>Attack Range: 1</p>                       | <p>Armor: 200<br>HP:300<br>+ 10% team armor</p>            | CLEG: 150, Iron: 60               |
-| Knight     | <p>80 Physical Damage<br>Attack Range: 1</p>                       | <p>Armor: 150<br>HP: 400</p>                               | CLEG: 300, Iron: 100              |
-| Mage       | <p>50 Magical Damage<br>Attack Range: 3,<br>20 Healing to team</p> | <p>Armor: 20<br>HP: 100<br>+ 100 team Magic Resistance</p> | CLEG: 100, Iron 5                 |
-| Catapult   | <p>150 AOE** Physical Damage<br>Range: 4</p>                       | <p>Armor: 300<br>HP: 500</p>                               | CLEG: 1000, Iron: 300, Stone: 300 |
-| Dragon     | <p>100 AOE Magical Damage<br>Range: 2</p>                          | <p>Armor: 200<br>HP: 500</p>                               | 1% Drops in dungeons              |
-| Goblin     | <p>20 Physical Damage<br>Range: 1</p>                              | <p>Armor: 50<br>HP: 200</p>                                | 10% Drops in dungeons             |
+| Name     | Damage                                                             | Defence                                                    | Resources                         |
+| -------- | ------------------------------------------------------------------ | ---------------------------------------------------------- | --------------------------------- |
+| Warrior  | <p>50 Physical Damage<br>Attack Range: 1</p>                       | <p>Armor: 100<br>HP: 200</p>                               | CLEG: 100, Iron: 30               |
+| Archer   | <p>30 Physical Damage<br>Attack Range: 2</p>                       | <p>Armor: 30<br>HP: 120</p>                                | CLEG: 80, Iron: 10                |
+| Guardian | <p>40 Physical Damage<br>Attack Range: 1</p>                       | <p>Armor: 200<br>HP:300<br>+ 10% team armor</p>            | CLEG: 150, Iron: 60               |
+| Knight   | <p>80 Physical Damage<br>Attack Range: 1</p>                       | <p>Armor: 150<br>HP: 400</p>                               | CLEG: 300, Iron: 100              |
+| Mage     | <p>50 Magical Damage<br>Attack Range: 3,<br>20 Healing to team</p> | <p>Armor: 20<br>HP: 100<br>+ 100 team Magic Resistance</p> | CLEG: 100, Iron 5                 |
+| Catapult | <p>150 AOE** Physical Damage<br>Range: 4</p>                       | <p>Armor: 300<br>HP: 500</p>                               | CLEG: 1000, Iron: 300, Stone: 300 |
+| Dragon   | <p>100 AOE Magical Damage<br>Range: 2</p>                          | <p>Armor: 200<br>HP: 500</p>                               | 1% Drops in dungeons              |
+| Goblin   | <p>20 Physical Damage<br>Range: 1</p>                              | <p>Armor: 50<br>HP: 200</p>                                | 10% Drops in dungeons             |
 
 \*\* AOE (Area of effect): Deals damage to units within 1 range distance of the target unit.
 
