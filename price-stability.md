@@ -18,7 +18,7 @@ To prevent this issue and control token supply in the market, we generate limite
 
 At the beginning of the game, 2000 lands (Common, Uncommon, Rare, and Legendary) will be available for buying every day. These lands have 1,300,000 tokens in total to mine. After each cycle, tokens of new lands will be reduced by 5%. Token mining will also reduce by 5% after each cycle too. The duration of the first cycle is at least 10 days up to all the lands sold out, the second cycle is 11 days, and every cycle is one day longer than the previous one. Cycle duration may become longer if all of the lands don't get sold out.
 
-![](.gitbook/assets/image.png)
+![](<.gitbook/assets/image (5).png>)
 
 ### Conclusion
 
