@@ -21,7 +21,7 @@ Units lose HP in battles and it takes time (depending on the level of [Barracks]
 
 Armor and Magic Resistance help units to get damaged less in battles.
 
-<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption><p>How armor and magic resistance mitigate incoming magical or physical damage</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>How armor and magic resistance mitigate incoming magical or physical damage</p></figcaption></figure>
 
 Here is how Armor affects Physical Damage:
 
