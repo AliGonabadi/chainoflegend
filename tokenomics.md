@@ -1,6 +1,6 @@
 # 🪙 Tokenomics
 
-Total Supply: 1,000,000,000 Tokens
+Max Supply: 1,000,000,000 Tokens
 
 Initial Supply: 100,000,000 Tokens
 
