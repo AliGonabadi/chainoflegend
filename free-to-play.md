@@ -23,15 +23,16 @@ You can get your referral link in the <img src=".gitbook/assets/image (4).png" a
 * 4% equivalent bounty bonus of invitees’ mining income.
 
 {% hint style="info" %}
-All incomes will be paid from the reward pool and will not be deducted from the invites' income or funds.
+All Revenue will be paid from the reward pool and will not get deducted from the invitees' income of funds.\
+
 {% endhint %}
 
 {% hint style="info" %}
-The invites will also receive 1% more from mining if they join by a referral link
+The invitee will also receive 1% more from mining if they join by a referral link.
 {% endhint %}
 
 {% hint style="info" %}
-These privileges are validated for 6 months since the game launches.
+These privileges are meant for 6 months since the invitee's join date.
 {% endhint %}
 
 ### Free tokens and NFTs
