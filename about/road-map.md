@@ -18,16 +18,21 @@
 ### 2022 Q3
 
 * [x] New Exchange Listing ([https://www.xt.com/tradePro/cleg\_usdt](https://www.xt.com/tradePro/cleg\_usdt))
-* [ ] More objectives in the game and PVE model ([Buildings](../guides/buildings.md), [Troops](../guides/heroes.md), [Dungeons](../guides/adventures.md#dungeons))
-* [ ] PVP Mode. [Treasure Island](../guides/adventures.md#treasure-island), [Battle system](../guides/battles.md)
+* [x] More objectives in the game and PVE model ([Buildings](../guides/buildings.md), [Troops](../guides/heroes.md), [Dungeons](../guides/adventures.md#dungeons))
+* [x] New UI framework, and notification system
+* [x] [Battle system](../guides/battles.md), music, sound effects, and etc.
+* [x] Profit Calculator
 
 ### 2022 Q4
 
 * [ ] [Guilds system](../guides/guilds.md)
-* [ ] Centralized Exchange Listing
+* [ ] Stone, Iron, and Troops Marketplace.
+* [x] Listing on Coinsbit Exchange: [https://coinsbit.io/trade\_classic/CLEG\_USDT](https://coinsbit.io/trade\_classic/CLEG\_USDT)
+* [x] Listing on Azbit Exchange: [https://azbit.com/exchange/CLEG\_USDT](https://azbit.com/exchange/CLEG\_USDT)
 
 ### 2023 Q1
 
+* [ ] PVP Mode. [Treasure Island](../guides/adventures.md#treasure-island)
 * [ ] Chat system: Chat with friends, Guild Members, and in the world channel (all game players)
 * [ ] Items: Players can find items in dungeons and treasure islands and use them on troops or trade them in the marketplace.
 
