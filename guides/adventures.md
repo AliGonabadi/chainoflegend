@@ -6,7 +6,7 @@ On the Adventure page, you can choose to send your troops to [Dungeons ](adventu
 
 ### Dungeons
 
-You can send your troops to find a dungeon and fight monsters and defeat them to get treasures from the dungeons. It may take a few days for your troops to find a dungeon. There is a chance for you to find rare items for your troops or capture dragons or goblins in dungeons in order to use them in your army in future adventures.
+You can send your troops to find a dungeon and fight monsters and defeat them to get treasures from the dungeons. It may take a few days for your troops to find a dungeon. There is a chance for you to find rare items for your troops or if you have free spot in you barracks you may capture dragons or goblins in dungeons in order to use them in your army in future adventures.
 
 ### Treasure Island
 
