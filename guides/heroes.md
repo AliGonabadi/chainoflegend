@@ -56,6 +56,8 @@ In [Barracks](buildings.md#barracks), you can train units. Some of the units are
 
 \*\* AOE (Area of effect): Deals damage to units within 1 range distance of the target unit.
 
+\*\*\* Mage will heal an ally with lowest health in each turn
+
 ### Unit Levels
 
 Units earn experience (XP) in battles. When they get enough XP, they will upgrade to the next Level. by upgrading to new levels, units' HP, Attack Damage, and Healing will increase by 50%. For ranged units, they will get 1 more attack range every 3 levels. For example, the table below shows the stats of Archer at each Level.
