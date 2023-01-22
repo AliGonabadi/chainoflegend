@@ -2,11 +2,15 @@
 
 On the Adventure page, you can choose to send your troops to [Dungeons ](adventures.md#dungeons)and defeat monsters then collect hidden treasures there or send them to [Treasure Island](adventures.md#treasure-island) to
 
-![](<../.gitbook/assets/image (3) (1).png>)
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 ### Dungeons
 
+<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+
 You can send your troops to find a dungeon and fight monsters and defeat them to get treasures from the dungeons. It may take a few days for your troops to find a dungeon. There is a chance for you to find rare items for your troops or if you have free spot in you barracks you may capture dragons or goblins in dungeons in order to use them in your army in future adventures.
+
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 ### Treasure Island
 

@@ -5,7 +5,7 @@ coverY: -178.89332572732457
 
 # 📃 Introduction
 
-![](<.gitbook/assets/Screenshot 2022-04-24 213612.jpg>)
+<figure><img src=".gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 Chain of Legends is a play to earn NFT game that you can:
 

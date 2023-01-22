@@ -12,9 +12,9 @@ Each player has a free [CLEG Token Mine](guides/buildings.md#cleg-token-mine) wi
 
 By referring your friends to the game. With our unique referral program, you can earn lots of money.
 
-You can get your referral link in the <img src=".gitbook/assets/image (4).png" alt="" data-size="line"> "My Referral" section and share it with your friends. there is a page where you can monitor your referral stats. You can also get multiple referral links and have separated referral stats on each link.&#x20;
+You can get your referral link in the <img src=".gitbook/assets/image (4) (1).png" alt="" data-size="line"> "My Referral" section and share it with your friends. there is a page where you can monitor your referral stats. You can also get multiple referral links and have separated referral stats on each link.&#x20;
 
-![My Referrals Page](<.gitbook/assets/image (3).png>)
+![My Referrals Page](<.gitbook/assets/image (3) (2).png>)
 
 **By inviting friends you will earn from:**
 
