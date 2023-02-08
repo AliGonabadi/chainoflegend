@@ -26,7 +26,7 @@
 ### 2022 Q4
 
 * [ ] [Guilds system](../guides/guilds.md)
-* [ ] Stone, Iron, and Troops Marketplace.
+* [x] Stone, Iron, and Troops Marketplace.
 * [x] Listing on Coinsbit Exchange: [https://coinsbit.io/trade\_classic/CLEG\_USDT](https://coinsbit.io/trade\_classic/CLEG\_USDT)
 * [x] Listing on Azbit Exchange: [https://azbit.com/exchange/CLEG\_USDT](https://azbit.com/exchange/CLEG\_USDT)
 
