@@ -14,6 +14,6 @@ You can send your troops to find a dungeon and fight monsters and defeat them to
 
 ### Treasure Island
 
-You can set your army to explore and find treasures. It may take one day up to ten Days to find a treasure island. There might be monsters on the island therefore you have to defeat them to capture the island. Collecting speed depends on the sum of the attack power of your heroes and it's 1 CLEG per 2 attack power per day. And also, you have to be ready to defend yourself from the ambush of other players to capture your island. You can create walls to make a defense advantage.
+You can set your army to explore and find treasures. It may take 6 hours or few days to find a treasure island. It depends how many players like you are looking for treasures and how many treasures already found. There might be enemies on the island therefore you have to defeat them to capture the island. Then you have to spend time to find treasures and collecting them. Collecting speed depends on the sum of the attack power of your survived heroes and it's 1 resource (CLEG / Stone / Iron) per 1 attack power per day. And also, you have to be ready to defend yourself from the ambush of other players to capture your island. You can create defensive structures.
 
-If you see that someone is already on the island, you can attack him/her to capture the island. You can Scout the island by paying some CLEG to get valuable information about enemy units and defensive structures or you can dismiss this island and continue exploring new islands.
+If you see that someone is already on the island, you can attack him/her to capture the island. You can scout the island by paying some CLEG to get valuable information about enemy units and defensive structures.
