@@ -32,16 +32,19 @@
 
 ### 2023 Q1
 
-* [ ] PVP Mode. [Treasure Island](../guides/adventures.md#treasure-island)
+* [x] PVP Mode. [Treasure Island](../guides/adventures.md#treasure-island)
 * [ ] Chat system: Chat with friends, Guild Members, and in the world channel (all game players)
-* [ ] Items: Players can find items in dungeons and treasure islands and use them on troops or trade them in the marketplace.
+* [x] Items: Players can find items in dungeons and treasure islands and use them on troops or trade them in the marketplace.
 
 ### 2023 Q2
 
-* [ ] World Map: Players can see dungeons and treasure islands on the map, and can scout them to get information about enemy troops.
+* [x] World Map: Players can see dungeons and treasure islands on the map, and can scout them to get information about enemy troops.
 
 ### 2023 Q3-Q4
 
+* [x] Treasure Island new pirate troops
+* [x] Treasure Island items and troops presale
+* [ ] New referral system to benefit player's invitees activities such as upgrading buildings and training troops
 * [ ] Arena Battle: online battles 1v1, 2v2, 3v3. Arena battles are NOT automated. players should control their troops in a turn-based battle beside his/her friends on the battleground.
 
 ### 2024 and future
