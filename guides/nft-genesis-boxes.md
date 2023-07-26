@@ -20,12 +20,7 @@ Read more about [Mining Cycles](../price-stability.md#mining-cycles)
 
 
 
-| Box Name | Lands qty | Land Drop Chance                                    |
-| -------- | --------- | --------------------------------------------------- |
-| Cobalt   | 45        | Common: 94%, Uncommon: 5%, Rare: 1%                 |
-| Pyrite   | 40        | Common: 46%, Uncommon:50%, Rare: 4%                 |
-| Copper   | 30        | Common: 37%, Uncommon:45%, Rare: 15%, Legendary: 3% |
-| Gold Box | 30        | Common: 0%, Uncommon:36%, Rare: 44%, Legendary: 20% |
+<table><thead><tr><th width="153.1253615698304">Box Name</th><th width="150">Lands qty</th><th width="444.3677549388293">Land Drop Chance</th></tr></thead><tbody><tr><td>Cobalt</td><td>45</td><td>Common: 94%, Uncommon: 5%, Rare: 1%</td></tr><tr><td>Pyrite</td><td>40</td><td>Common: 46%, Uncommon:50%, Rare: 4%</td></tr><tr><td>Copper</td><td>30</td><td>Common: 37%, Uncommon:45%, Rare: 15%, Legendary: 3%</td></tr><tr><td>Gold Box</td><td>30</td><td>Common: 0%, Uncommon:36%, Rare: 44%, Legendary: 20%</td></tr></tbody></table>
 
 {% hint style="warning" %}
 You may not receive number of each type of lands exactly equal to its drop chance, you may receive of one type more than it's drop chance, and fewer from another type.

@@ -13,7 +13,7 @@ Priorities:
 * Lowest HP
 * Highest Damage
 
-<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7) (2).png" alt=""><figcaption></figcaption></figure>
 
 Units lose HP in battles and it takes time (depending on the level of [Barracks](broken-reference)) to recover their HP.
 
@@ -21,16 +21,16 @@ Units lose HP in battles and it takes time (depending on the level of [Barracks]
 
 Armor and Magic Resistance help units to get damaged less in battles.
 
-<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption><p>How armor and magic resistance mitigate incoming magical or physical damage</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption><p>How armor and magic resistance mitigate incoming magical or physical damage</p></figcaption></figure>
 
 Here is how Armor affects Physical Damage:
 
-Physical Resistance = 100 / ( 200 / Armor + 1))
+Physical Resistance = 100 / ( 200 / Armor + 1.25))
 
 Example: A unit with 50 Armor will get 20**%** less physical Damage:
 
-Physical Resistance = 100 / ( 200 / 50 + 1)) =  **20%**
+Physical Resistance = 100 / ( 200 / 50 + 1.25)) =  **20%**
 
 Magic Resistance has the same formula:
 
-Magic Resistance = 100 / ( 200 / Magic Resistance + 1)
+Magic Resistance = 100 / ( 200 / Magic Resistance + 1.25)

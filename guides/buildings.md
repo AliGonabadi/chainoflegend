@@ -15,17 +15,7 @@ Resource buildings also have a capacity. You have to collect their resources bef
 
 Level 0 is free for all. Everyone has a free CLEG Mine with 25 CLEG Production Per day. Capacity: 25 CLEG.
 
-| Level | Upgrade Time | Cost        | Production \* | 1 HP Repair\*\* | Capacity \* |
-| ----- | ------------ | ----------- | ------------- | --------------- | ----------- |
-| 0     | 0 hours      | Free        | 25            | 0               | 25          |
-| 1     | 6 hours      | 1,000 CLEG  | 50 CLEG       | 5 CLEG          | 50 CLEG     |
-| 2     | 12 hours     | 1,000 CLEG  | 95 CLEG       | 10 CLEG         | 100 CLEG    |
-| 3     | 24 hours     | 2,000 CLEG  | 181 CLEG      | 20 CLEG         | 200 CLEG    |
-| 4     | 36 hours     | 4,000 CLEG  | 343 CLEG      | 40 CLEG         | 400 CLEG    |
-| 5     | 48 hours     | 8,000 CLEG  | 652 CLEG      | 80 CLEG         | 800 CLEG    |
-| 6     | 60 hours     | 16,000 CLEG | 1,238 CLEG    | 160 CLEG        | 1600 CLEG   |
-| 7     | 72 hours     | 32,000 CLEG | 2,352 CLEG    | 320 CLEG        | 3200 CLEG   |
-| 8     | 84 hours     | 64,000 CLEG | 4,469 CLEG    | 640 CLEG        | 6400 CLEG   |
+<table><thead><tr><th width="90">Level</th><th width="142">Upgrade Time</th><th width="135">Cost</th><th width="129">Production *</th><th width="110">1 HP Repair**</th><th>Capacity *</th></tr></thead><tbody><tr><td>0</td><td>0 hours</td><td>Free</td><td>25</td><td>0</td><td>25</td></tr><tr><td>1</td><td>6 hours</td><td>1,000 CLEG</td><td>50 CLEG</td><td>5 CLEG</td><td>50 CLEG</td></tr><tr><td>2</td><td>12 hours</td><td>1,000 CLEG</td><td>95 CLEG</td><td>10 CLEG</td><td>100 CLEG</td></tr><tr><td>3</td><td>24 hours</td><td>2,000 CLEG</td><td>181 CLEG</td><td>20 CLEG</td><td>200 CLEG</td></tr><tr><td>4</td><td>36 hours</td><td>4,000 CLEG</td><td>343 CLEG</td><td>40 CLEG</td><td>400 CLEG</td></tr><tr><td>5</td><td>48 hours</td><td>8,000 CLEG</td><td>652 CLEG</td><td>80 CLEG</td><td>800 CLEG</td></tr><tr><td>6</td><td>60 hours</td><td>16,000 CLEG</td><td>1,238 CLEG</td><td>160 CLEG</td><td>1600 CLEG</td></tr><tr><td>7</td><td>72 hours</td><td>32,000 CLEG</td><td>2,352 CLEG</td><td>320 CLEG</td><td>3200 CLEG</td></tr><tr><td>8</td><td>84 hours</td><td>64,000 CLEG</td><td>4,469 CLEG</td><td>640 CLEG</td><td>6400 CLEG</td></tr></tbody></table>
 
 {% hint style="warning" %}
 \* Production per day and Capacity numbers are related to cycle 1. In the next cycles, the production will be reduced. Read more about [Mining Cycles](../price-stability.md#mining-cycles).
@@ -39,16 +29,7 @@ Level 0 is free for all. Everyone has a free CLEG Mine with 25 CLEG Production P
 
 ![](../.gitbook/assets/CLEG-stone-mine.webp)
 
-| Level | Upgrade Time | Cost                              | Production \* | Capacity \* |
-| ----- | ------------ | --------------------------------- | ------------- | ----------- |
-| 1     | 12 hours     | 400 CLEG                          | 100 Stone     | 100 Stone   |
-| 2     | 24 hours     | <p>400 CLEG,<br>400 Stone</p>     | 190 Stone     | 200 Stone   |
-| 3     | 36 hours     | <p>800 CLEG,<br>800 Stone</p>     | 361 Stone     | 400 Stone   |
-| 4     | 48 hours     | <p>1600 CLEG,<br>1600 Stone</p>   | 686 Stone     | 800 Stone   |
-| 5     | 60 hours     | <p>3200 CLEG,<br>3200 Stone</p>   | 1303 Stone    | 1600 Stone  |
-| 6     | 72 hours     | <p>6400 CLEG,<br>6400 Stone</p>   | 2476 Stone    | 3200 Stone  |
-| 7     | 84 hours     | <p>12800 CLEG,<br>12800 Stone</p> | 4705 Stone    | 6400 Stone  |
-| 8     | 96 hours     | <p>25600 CLEG,<br>25600 Stone</p> | 8939 Stone    | 12800 Stone |
+<table><thead><tr><th width="88">Level</th><th width="146">Upgrade Time</th><th>Cost</th><th>Production *</th><th>Capacity *</th></tr></thead><tbody><tr><td>1</td><td>12 hours</td><td>400 CLEG</td><td>100 Stone</td><td>100 Stone</td></tr><tr><td>2</td><td>24 hours</td><td>400 CLEG,<br>400 Stone</td><td>190 Stone</td><td>200 Stone</td></tr><tr><td>3</td><td>36 hours</td><td>800 CLEG,<br>800 Stone</td><td>361 Stone</td><td>400 Stone</td></tr><tr><td>4</td><td>48 hours</td><td>1600 CLEG,<br>1600 Stone</td><td>686 Stone</td><td>800 Stone</td></tr><tr><td>5</td><td>60 hours</td><td>3200 CLEG,<br>3200 Stone</td><td>1303 Stone</td><td>1600 Stone</td></tr><tr><td>6</td><td>72 hours</td><td>6400 CLEG,<br>6400 Stone</td><td>2476 Stone</td><td>3200 Stone</td></tr><tr><td>7</td><td>84 hours</td><td>12800 CLEG,<br>12800 Stone</td><td>4705 Stone</td><td>6400 Stone</td></tr><tr><td>8</td><td>96 hours</td><td>25600 CLEG,<br>25600 Stone</td><td>8939 Stone</td><td>12800 Stone</td></tr></tbody></table>
 
 {% hint style="warning" %}
 \* Production per day and Capacity numbers are related to cycle 1. In the next cycles, the production will be reduced. Read more about [Mining Cycles](../price-stability.md#mining-cycles).
@@ -58,16 +39,7 @@ Level 0 is free for all. Everyone has a free CLEG Mine with 25 CLEG Production P
 
 ![](../.gitbook/assets/CLEG-iron-mine.webp)
 
-| Level | Upgrade Time | Cost                                             | Production \* | Capacity \* |
-| ----- | ------------ | ------------------------------------------------ | ------------- | ----------- |
-| 1     | 12 hours     | <p>500 CLEG,</p><p>500 Stone</p>                 | 100 Iron      | 100 Iron    |
-| 2     | 24 hours     | <p>500 CLEG,</p><p>500 Stone,<br>500 Iron</p>    | 190 Iron      | 200 Iron    |
-| 3     | 36 hours     | <p>1000 CLEG,<br>1000 Stone,<br>1000 Iron</p>    | 361 Iron      | 400 Iron    |
-| 4     | 48 hours     | <p>2000 CLEG,<br>2000 Stone,<br>2000 Iron</p>    | 686 Iron      | 800 Iron    |
-| 5     | 60 hours     | <p>4000 CLEG,<br>4000 Stone,<br>4000 Iron</p>    | 1303 Iron     | 1600 Iron   |
-| 6     | 72 hours     | <p>8000 CLEG,<br>8000 Stone,<br>8000 Iron</p>    | 2476 Iron     | 3200 Iron   |
-| 7     | 84 hours     | <p>16000 CLEG,<br>16000 Stone,<br>16000 Iron</p> | 4705 Iron     | 6400 Iron   |
-| 8     | 96 hours     | <p>32000 CLEG,<br>32000 Stone,<br>32000 Iron</p> | 8939 Iron     | 12800 Iron  |
+<table><thead><tr><th width="99">Level</th><th width="150">Upgrade Time</th><th>Cost</th><th>Production *</th><th>Capacity *</th></tr></thead><tbody><tr><td>1</td><td>12 hours</td><td><p>500 CLEG,</p><p>500 Stone</p></td><td>100 Iron</td><td>100 Iron</td></tr><tr><td>2</td><td>24 hours</td><td><p>500 CLEG,</p><p>500 Stone,<br>500 Iron</p></td><td>190 Iron</td><td>200 Iron</td></tr><tr><td>3</td><td>36 hours</td><td>1000 CLEG,<br>1000 Stone,<br>1000 Iron</td><td>361 Iron</td><td>400 Iron</td></tr><tr><td>4</td><td>48 hours</td><td>2000 CLEG,<br>2000 Stone,<br>2000 Iron</td><td>686 Iron</td><td>800 Iron</td></tr><tr><td>5</td><td>60 hours</td><td>4000 CLEG,<br>4000 Stone,<br>4000 Iron</td><td>1303 Iron</td><td>1600 Iron</td></tr><tr><td>6</td><td>72 hours</td><td>8000 CLEG,<br>8000 Stone,<br>8000 Iron</td><td>2476 Iron</td><td>3200 Iron</td></tr><tr><td>7</td><td>84 hours</td><td>16000 CLEG,<br>16000 Stone,<br>16000 Iron</td><td>4705 Iron</td><td>6400 Iron</td></tr><tr><td>8</td><td>96 hours</td><td>32000 CLEG,<br>32000 Stone,<br>32000 Iron</td><td>8939 Iron</td><td>12800 Iron</td></tr></tbody></table>
 
 {% hint style="warning" %}
 \* Production per day and Capacity numbers are related to cycle 1. In the next cycles, the production will be reduced. Read more about [Mining Cycles](../price-stability.md#mining-cycles).
@@ -81,16 +53,7 @@ By upgrading barracks, Capacity will increase by 2 per level. And Armor, Damage,
 
 ![Barracks](../.gitbook/assets/CLEG-Barracks.webp)
 
-| Level | Upgrade Time | Cost                                             | Healing/Day \* | Capacity | Bonus Stats \*\* |
-| ----- | ------------ | ------------------------------------------------ | -------------- | -------- | ---------------- |
-| 1     | 12 hours     | <p>1000 CLEG,<br>1000 Stone,<br>1000 Iron</p>    | 240 HP         | 5 Units  | 0%               |
-| 2     | 24 hours     | <p>1000 CLEG,<br>1000 Stone,<br>1000 Iron</p>    | 480 HP         | 7 Units  | 5%               |
-| 3     | 36 hours     | <p>2000 CLEG,<br>2000 Stone,<br>2000 Iron</p>    | 960 HP         | 9 Units  | 10%              |
-| 4     | 48 hours     | <p>4000 CLEG,<br>4000 Stone,<br>4000 Iron</p>    | 1920 HP        | 11 Units | 20%              |
-| 5     | 60 hours     | <p>8000 CLEG,<br>8000 Stone,<br>8000 Iron</p>    | 3840 HP        | 13 Units | 40%              |
-| 6     | 72 hours     | <p>16000 CLEG,<br>16000 Stone,<br>16000 Iron</p> | 7680 HP        | 15 Units | 80%              |
-| 7     | 84 hours     | <p>32000 CLEG,<br>32000 Stone,<br>32000 Iron</p> | 15360 HP       | 17 Units | 160%             |
-| 8     | 96 hours     | <p>64000 CLEG,<br>64000 Stone,<br>64000 Iron</p> | 30720 HP       | 19 Units | 320%             |
+<table><thead><tr><th width="88">Level</th><th>Upgrade Time</th><th width="142">Cost</th><th width="135">Healing/Day *</th><th>Capacity</th><th>Bonus Stats **</th></tr></thead><tbody><tr><td>1</td><td>12 hours</td><td>1000 CLEG,<br>1000 Stone,<br>1000 Iron</td><td>240 HP</td><td>5 Units</td><td>0%</td></tr><tr><td>2</td><td>24 hours</td><td>1000 CLEG,<br>1000 Stone,<br>1000 Iron</td><td>480 HP</td><td>7 Units</td><td>5%</td></tr><tr><td>3</td><td>36 hours</td><td>2000 CLEG,<br>2000 Stone,<br>2000 Iron</td><td>960 HP</td><td>9 Units</td><td>10%</td></tr><tr><td>4</td><td>48 hours</td><td>4000 CLEG,<br>4000 Stone,<br>4000 Iron</td><td>1920 HP</td><td>11 Units</td><td>20%</td></tr><tr><td>5</td><td>60 hours</td><td>8000 CLEG,<br>8000 Stone,<br>8000 Iron</td><td>3840 HP</td><td>13 Units</td><td>40%</td></tr><tr><td>6</td><td>72 hours</td><td>16000 CLEG,<br>16000 Stone,<br>16000 Iron</td><td>7680 HP</td><td>15 Units</td><td>80%</td></tr><tr><td>7</td><td>84 hours</td><td>32000 CLEG,<br>32000 Stone,<br>32000 Iron</td><td>15360 HP</td><td>17 Units</td><td>160%</td></tr><tr><td>8</td><td>96 hours</td><td>64000 CLEG,<br>64000 Stone,<br>64000 Iron</td><td>30720 HP</td><td>19 Units</td><td>320%</td></tr></tbody></table>
 
 {% hint style="info" %}
 \* Healing/Day: When units are injured in battles, their HP will recover in Barracks equal to Healing/Day divided by injured soldiers per day. For Example, If Barrack's Healing/Day is 240 and there are 10 injured units, each unit will receive 24 HP per day.

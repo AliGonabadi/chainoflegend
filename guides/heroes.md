@@ -43,16 +43,7 @@ In [Barracks](buildings.md#barracks), you can train units. Some of the units are
 
 ### Base Stats
 
-| Name     | Damage                                                         | Defence                                                                      | Resources                         |
-| -------- | -------------------------------------------------------------- | ---------------------------------------------------------------------------- | --------------------------------- |
-| Warrior  | <p>50 Physical Damage<br>Attack Range: 1</p>                   | <p>Armor: 100<br>HP: 200<br>Magic Resistance: 20</p>                         | CLEG: 100, Iron: 30               |
-| Archer   | <p>40 Physical Damage<br>Attack Range: 2</p>                   | <p>Armor: 30<br>HP: 120<br>Magic Resistance: 20</p>                          | CLEG: 100, Iron: 20               |
-| Guardian | <p>40 Physical Damage<br>Attack Range: 1</p>                   | <p>Armor: 200<br>HP:300<br>Magic Resistance: 20<br>+30 team armor</p>        | CLEG: 150, Iron: 100              |
-| Knight   | <p>100 Physical Damage<br>Attack Range: 1</p>                  | <p>Armor: 150<br>HP: 400<br>Magic Resistance: 20</p>                         | CLEG: 300, Iron: 100              |
-| Mage     | <p>50 Magical Damage<br>Attack Range: 3,<br>17 Healing*** </p> | <p>Armor: 20<br>HP: 100<br>Magic Resistance: 20<br>+30 team Magic Resist</p> | CLEG: 160, Iron 25                |
-| Catapult | <p>150 AOE** Physical Damage<br>Range: 4</p>                   | <p>Armor: 300<br>HP: 500<br>Magic Resistance: 20</p>                         | CLEG: 1000, Iron: 400, Stone: 500 |
-| Dragon   | <p>100 AOE Magical Damage<br>Range: 2</p>                      | <p>Armor: 200<br>HP: 500<br>Magic Resistance: 20</p>                         | 1% Drops in dungeons              |
-| Goblin   | <p>20 Physical Damage<br>Range: 1</p>                          | <p>Armor: 50<br>HP: 200<br>Magic Resistance: 20</p>                          | 10% Drops in dungeons             |
+<table><thead><tr><th width="119.34587254356853">Name</th><th width="196.45229776221768">Damage</th><th width="231.0297488249819">Defence</th><th>Resources</th></tr></thead><tbody><tr><td>Warrior</td><td>50 Physical Damage<br>Attack Range: 1</td><td>Armor: 100<br>HP: 200<br>Magic Resistance: 20</td><td>CLEG: 100, Iron: 30</td></tr><tr><td>Archer</td><td>40 Physical Damage<br>Attack Range: 2</td><td>Armor: 30<br>HP: 120<br>Magic Resistance: 20</td><td>CLEG: 100, Iron: 20</td></tr><tr><td>Guardian</td><td>40 Physical Damage<br>Attack Range: 1</td><td>Armor: 200<br>HP:300<br>Magic Resistance: 20<br>+30 team armor</td><td>CLEG: 150, Iron: 100</td></tr><tr><td>Knight</td><td>100 Physical Damage<br>Attack Range: 1</td><td>Armor: 150<br>HP: 400<br>Magic Resistance: 20</td><td>CLEG: 300, Iron: 100</td></tr><tr><td>Mage</td><td>50 Magical Damage<br>Attack Range: 3,<br>17 Healing*** </td><td>Armor: 20<br>HP: 100<br>Magic Resistance: 20<br>+30 team Magic Resist</td><td>CLEG: 160, Iron 25</td></tr><tr><td>Catapult</td><td>150 AOE** Physical Damage<br>Range: 4</td><td>Armor: 300<br>HP: 500<br>Magic Resistance: 20</td><td>CLEG: 1000, Iron: 400, Stone: 500</td></tr><tr><td>Dragon</td><td>100 AOE Magical Damage<br>Range: 2</td><td>Armor: 200<br>HP: 500<br>Magic Resistance: 20</td><td>1% Drops in dungeons</td></tr><tr><td>Goblin</td><td>20 Physical Damage<br>Range: 1</td><td>Armor: 50<br>HP: 200<br>Magic Resistance: 20</td><td>10% Drops in dungeons</td></tr></tbody></table>
 
 \*\* AOE (Area of effect): Deals damage to units within 1 range distance of the target unit.
 
@@ -62,18 +53,7 @@ In [Barracks](buildings.md#barracks), you can train units. Some of the units are
 
 Units earn experience (XP) in battles. When they get enough XP, they will upgrade to the next Level. by upgrading to new levels, units' HP, Attack Damage, and Healing will increase by 50%. For ranged units, they will get 1 more attack range every 3 levels. For example, the table below shows the stats of Archer at each Level.
 
-| Level | XP required | Attack | HP      | Attack Range |
-| ----- | ----------- | ------ | ------- | ------------ |
-| 1     | -           | 30     | 120 HP  | 2            |
-| 2     | 100         | 45     | 180 HP  | 2            |
-| 3     | 150         | 68     | 270 HP  | 2            |
-| 4     | 225         | 101    | 405 HP  | 3            |
-| 5     | 338         | 152    | 608 HP  | 3            |
-| 6     | 506         | 228    | 911 HP  | 3            |
-| 7     | 759         | 342    | 1367 HP | 4            |
-| 8     | 1139        | 513    | 2050 HP | 4            |
-| 9     | 1709        | 769    | 3075 HP | 4            |
-| 10    | 2563        | 1153   | 4613 HP | 5            |
+<table><thead><tr><th width="110">Level</th><th width="127">XP required</th><th width="121">Attack</th><th width="135">HP</th><th width="137">Attack Range</th></tr></thead><tbody><tr><td>1</td><td>-  </td><td>30</td><td>120 HP</td><td>2</td></tr><tr><td>2</td><td>100</td><td>45</td><td>180 HP</td><td>2</td></tr><tr><td>3</td><td>150</td><td>68</td><td>270 HP</td><td>2</td></tr><tr><td>4</td><td>225</td><td>101</td><td>405 HP</td><td>3</td></tr><tr><td>5</td><td>338</td><td>152</td><td>608 HP</td><td>3</td></tr><tr><td>6</td><td>506</td><td>228</td><td>911 HP</td><td>3</td></tr><tr><td>7</td><td>759</td><td>342</td><td>1367 HP</td><td>4</td></tr><tr><td>8</td><td>1139</td><td>513</td><td>2050 HP</td><td>4</td></tr><tr><td>9</td><td>1709</td><td>769</td><td>3075 HP</td><td>4</td></tr><tr><td>10</td><td>2563</td><td>1153</td><td>4613 HP</td><td>5</td></tr></tbody></table>
 
 Each troop earns 10 XP if they win the battle, but if they lose the battle, troops will earn 5 XP. Required XP for level up to level 2 is 100 and for next levels is previous level required XP + 50%. For example: Troop level 1 requires 100 XP to level up, and troop level 2 needs 150 XP to reach to the next level.
 
