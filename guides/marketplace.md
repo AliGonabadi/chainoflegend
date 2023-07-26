@@ -1,6 +1,6 @@
 # 🛒 Marketplace
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 Players can trade Resources, Heroes, Lands, Buildings, and Items in the Marketplace. Players are also able to rent their NFT items in the marketplace. There are many filters and sorting options to help you to find what you are looking for.
 
