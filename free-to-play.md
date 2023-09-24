@@ -12,18 +12,19 @@ Each player has a free [CLEG Token Mine](guides/buildings.md#cleg-token-mine) wi
 
 By referring your friends to the game. With our unique referral program, you can earn lots of money.
 
-You can get your referral link in the <img src=".gitbook/assets/image (4) (1).png" alt="" data-size="line"> "My Referral" section and share it with your friends. there is a page where you can monitor your referral stats. You can also get multiple referral links and have separated referral stats on each link.&#x20;
+You can get your referral link in the <img src="https://play.chainoflegends.com/assets/images/icons/referral.png" alt="" data-size="line"> "My Referral" section and share it with your friends. there is a page where you can monitor your referral stats. You can also get multiple referral links and have separate referral stats on each link.&#x20;
 
 ![My Referrals Page](<.gitbook/assets/image (3) (2).png>)
 
-**By inviting friends you will earn from:**
+**By inviting friends you will earn**&#x20;
 
-* 5% reward for every invitee’s deposit.
-* 100% of the trading fee of your invites in the marketplace.
-* 4% equivalent bounty bonus of invitees’ mining income.
+* 5% Deposit perks as a reward for each friend's deposit. &#x20;
+* 5% perks as a reward for encouraging your friend to Upgrade or Instant Upgrade each of his (her) Buildings. &#x20;
+* 5% perks as a reward for encouraging your friend to Upgrade or Instant Upgrade each of his (her) Heroes. &#x20;
+* 1.5% Trading perks as a reward for each friend's marketplace Trade. All Revenue will be paid from the reward pool and will not get deducted from the invitees' income funds.
 
 {% hint style="info" %}
-All Revenue will be paid from the reward pool and will not get deducted from the invitees' income of funds.\
+All Revenue will be paid from the reward pool and will not get deducted from the invitees' income funds.\
 
 {% endhint %}
 
