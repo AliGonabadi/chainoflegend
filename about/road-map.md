@@ -33,7 +33,7 @@
 ### 2023 Q1
 
 * [x] PVP Mode. [Treasure Island](../guides/adventures.md#treasure-island)
-* [ ] Chat system: Chat with friends, Guild Members, and in the world channel (all game players)
+* [x] Chat system: Chat with friends, Guild Members, and in the world channel (all game players)
 * [x] Items: Players can find items in dungeons and treasure islands and use them on troops or trade them in the marketplace.
 
 ### 2023 Q2
