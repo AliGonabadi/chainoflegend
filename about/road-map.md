@@ -4,7 +4,7 @@
 
 * [x] Developing the website
 * [x] Developing Smart Contract
-* [x] Concept, Model, and animate 3d models of troops, and building
+* [x] Concept, Model, and animate 3D models of troops, and building
 * [x] 80,000 Social Communities' members.
 * [x] NFT Sales
 
@@ -20,7 +20,7 @@
 * [x] New Exchange Listing ([https://www.xt.com/tradePro/cleg\_usdt](https://www.xt.com/tradePro/cleg\_usdt))
 * [x] More objectives in the game and PVE model ([Buildings](../guides/buildings.md), [Troops](../guides/heroes.md), [Dungeons](../guides/adventures.md#dungeons))
 * [x] New UI framework, and notification system
-* [x] [Battle system](../guides/battles.md), music, sound effects, and etc.
+* [x] [Battle system](../guides/battles.md), music, sound effects, etc.
 * [x] Profit Calculator
 
 ### 2022 Q4
@@ -44,8 +44,8 @@
 
 * [x] Treasure Island new pirate troops
 * [x] Treasure Island items and troops presale
-* [x] New referral system to benefit player's invitees activities such as upgrading buildings and training troops
-* [ ] Quests: Players receive rewards by accomplished quests.
+* [x] New referral system to benefit player's invitee's activities such as upgrading buildings and training troops
+* [ ] Quests: Players receive rewards by accomplishing quests.
 * [ ] Arena Battle: online battles 1v1, 2v2, 3v3. Arena battles are NOT automated. players should control their troops in a turn-based battle beside his/her friends on the battleground.
 
 ### 2024 and future
