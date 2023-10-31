@@ -40,15 +40,18 @@
 
 * [x] World Map: Players can see dungeons and treasure islands on the map, and can scout them to get information about enemy troops.
 
-### 2023 Q3-Q4
+### 2023 Q3
 
 * [x] Treasure Island new pirate troops
 * [x] Treasure Island items and troops presale
 * [x] New referral system to benefit player's invitee's activities such as upgrading buildings and training troops
-* [ ] New Cinematic Trailer
-* [ ] Quests: Players receive rewards by accomplishing quests.
+
+### 2023 Q4
+
+* [x] New Cinematic Trailer
+* [x] Quests: Players receive rewards by accomplishing quests.
 * [ ] Blacksmith!
-* [ ] Arena Battle: online battles 1v1, 2v2, 3v3. Arena battles are NOT automated. players should control their troops in a turn-based battle beside his/her friends on the battleground.
+* [ ] Arena Battle: online battles 1v1, 2v2, 3v3. Arena battles are NOT automated. Players should control their troops in a turn-based battle beside their friends on the battleground.
 
 ### 2024 and future
 
