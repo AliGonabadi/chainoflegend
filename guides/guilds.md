@@ -12,6 +12,6 @@ if the required minimum units, do not get filled by guild members on the time th
 
 Every player who joined the adventure will get a share based on how much damage and healing his/her units delivered and received in the battle(s).
 
-Player Score = total damage dealt + total damage received + total healing delivered
+Player Impact= total damage dealt + total damage received + total damage block + total healing done&#x20;
 
-Player Reward Share = (Player Score / Players Total Score) \* Total Reward
+Player Reward Share = (Player Impact / Players Total Score) \* Total Reward
